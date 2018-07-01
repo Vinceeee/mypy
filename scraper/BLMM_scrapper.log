@@ -1,0 +1,545 @@
+[07/01/2018 07:52:00](INFO) - retrieving /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 07:52:05](WARNING) - Internal server error , try again ... 
+[07/01/2018 07:52:05](INFO) - retrieving /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 07:52:10](WARNING) - Internal server error , try again ... 
+[07/01/2018 07:52:10](INFO) - retrieving /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 07:52:14](WARNING) - Internal server error , try again ... 
+[07/01/2018 07:52:14](INFO) - retrieving /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 07:52:16](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 08:24:14](INFO) - retrieving /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:24:14](INFO) - retrieving /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 08:24:14](INFO) - retrieving /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 08:24:14](INFO) - retrieving /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 08:24:15](WARNING) - Internal server error , try again ... 
+[07/01/2018 08:24:16](WARNING) - Internal server error , try again ... 
+[07/01/2018 08:24:18](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 08:29:44](INFO) - retrieving /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:29:44](INFO) - retrieving /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 08:29:44](INFO) - retrieving /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 08:29:44](INFO) - retrieving /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 08:32:09](INFO) - retrieving /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:32:09](INFO) - retrieving /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 08:32:09](INFO) - retrieving /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 08:32:09](INFO) - retrieving /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 08:33:13](INFO) - retrieving ./0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:33:50](INFO) - retrieving ./0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:34:00](WARNING) - a bytes-like object is required, not '_io.BytesIO' 
+[07/01/2018 08:34:59](INFO) - retrieving ./0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:35:08](INFO) - Successfully retrievied ./0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:35:34](INFO) - retrieving /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:35:34](INFO) - retrieving /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 08:35:34](INFO) - retrieving /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 08:35:34](INFO) - retrieving /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 08:35:34](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 08:35:34](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 08:35:37](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:36:06](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 08:41:15](INFO) - retrieving /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:41:15](INFO) - retrieving /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 08:41:15](INFO) - retrieving /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 08:41:15](INFO) - retrieving /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 08:41:16](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 08:41:16](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 08:41:16](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 08:41:28](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:52:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0000.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0000.jpg 
+[07/01/2018 08:52:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0001.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0001.jpg 
+[07/01/2018 08:52:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0002.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0002.jpg 
+[07/01/2018 08:52:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0003.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0003.jpg 
+[07/01/2018 08:52:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0004.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0004.jpg 
+[07/01/2018 08:52:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0005.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0005.jpg 
+[07/01/2018 08:52:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:52:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 08:52:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 08:52:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 08:52:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 08:52:42](INFO) - retrieving /tmp/BL/beautyleg-1603-0010.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0010.jpg 
+[07/01/2018 08:52:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 08:52:42](INFO) - retrieving /tmp/BL/beautyleg-1603-0011.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0011.jpg 
+[07/01/2018 08:52:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 08:52:42](INFO) - retrieving /tmp/BL/beautyleg-1603-0012.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0012.jpg 
+[07/01/2018 08:52:51](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0010.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0010.jpg 
+[07/01/2018 08:52:51](INFO) - retrieving /tmp/BL/beautyleg-1603-0013.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0013.jpg 
+[07/01/2018 08:52:54](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0003.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0003.jpg 
+[07/01/2018 08:52:54](INFO) - retrieving /tmp/BL/beautyleg-1603-0014.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0014.jpg 
+[07/01/2018 08:52:56](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0005.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0005.jpg 
+[07/01/2018 08:52:56](INFO) - retrieving /tmp/BL/beautyleg-1603-0015.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0015.jpg 
+[07/01/2018 08:52:57](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 08:52:57](INFO) - retrieving /tmp/BL/beautyleg-1603-0016.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0016.jpg 
+[07/01/2018 08:52:58](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0011.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0011.jpg 
+[07/01/2018 08:52:58](INFO) - retrieving /tmp/BL/beautyleg-1603-0017.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0017.jpg 
+[07/01/2018 08:53:00](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0002.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0002.jpg 
+[07/01/2018 08:53:00](INFO) - retrieving /tmp/BL/beautyleg-1603-0018.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0018.jpg 
+[07/01/2018 08:53:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0013.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0013.jpg 
+[07/01/2018 08:53:02](INFO) - retrieving /tmp/BL/beautyleg-1603-0019.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0019.jpg 
+[07/01/2018 08:53:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0000.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0000.jpg 
+[07/01/2018 08:53:02](INFO) - retrieving /tmp/BL/beautyleg-1603-0020.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0020.jpg 
+[07/01/2018 08:53:03](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0001.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0001.jpg 
+[07/01/2018 08:53:03](INFO) - retrieving /tmp/BL/beautyleg-1603-0021.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0021.jpg 
+[07/01/2018 08:53:03](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0004.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0004.jpg 
+[07/01/2018 08:53:03](INFO) - retrieving /tmp/BL/beautyleg-1603-0022.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0022.jpg 
+[07/01/2018 08:53:03](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0012.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0012.jpg 
+[07/01/2018 08:53:03](INFO) - retrieving /tmp/BL/beautyleg-1603-0023.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0023.jpg 
+[07/01/2018 08:53:15](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0015.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0015.jpg 
+[07/01/2018 08:53:15](INFO) - retrieving /tmp/BL/beautyleg-1603-0024.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0024.jpg 
+[07/01/2018 08:53:26](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0018.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0018.jpg 
+[07/01/2018 08:53:26](INFO) - retrieving /tmp/BL/beautyleg-1603-0025.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0025.jpg 
+[07/01/2018 08:53:49](WARNING) - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',)) 
+[07/01/2018 08:53:49](INFO) - retrieving /tmp/BL/beautyleg-1603-0026.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0026.jpg 
+[07/01/2018 08:53:52](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0022.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0022.jpg 
+[07/01/2018 08:53:52](INFO) - retrieving /tmp/BL/beautyleg-1603-0027.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0027.jpg 
+[07/01/2018 08:54:05](WARNING) - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',)) 
+[07/01/2018 08:54:05](INFO) - retrieving /tmp/BL/beautyleg-1603-0028.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0028.jpg 
+[07/01/2018 08:54:09](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0020.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0020.jpg 
+[07/01/2018 08:54:09](INFO) - retrieving /tmp/BL/beautyleg-1603-0029.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0029.jpg 
+[07/01/2018 08:54:11](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0024.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0024.jpg 
+[07/01/2018 08:54:11](INFO) - retrieving /tmp/BL/beautyleg-1603-0030.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0030.jpg 
+[07/01/2018 08:54:12](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0019.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0019.jpg 
+[07/01/2018 08:54:12](INFO) - retrieving /tmp/BL/beautyleg-1603-0031.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0031.jpg 
+[07/01/2018 08:54:12](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0025.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0025.jpg 
+[07/01/2018 08:54:12](INFO) - retrieving /tmp/BL/beautyleg-1603-0032.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0032.jpg 
+[07/01/2018 08:54:14](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0023.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0023.jpg 
+[07/01/2018 08:54:14](INFO) - retrieving /tmp/BL/beautyleg-1603-0033.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0033.jpg 
+[07/01/2018 08:54:14](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0014.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0014.jpg 
+[07/01/2018 08:54:14](INFO) - retrieving /tmp/BL/beautyleg-1603-0034.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0034.jpg 
+[07/01/2018 08:54:14](WARNING) - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',)) 
+[07/01/2018 08:54:14](INFO) - retrieving /tmp/BL/beautyleg-1603-0035.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0035.jpg 
+[07/01/2018 08:54:15](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0034.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0034.jpg 
+[07/01/2018 08:54:15](INFO) - retrieving /tmp/BL/beautyleg-1603-0036.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0036.jpg 
+[07/01/2018 08:54:17](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0027.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0027.jpg 
+[07/01/2018 08:54:17](INFO) - retrieving /tmp/BL/beautyleg-1603-0037.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0037.jpg 
+[07/01/2018 08:54:19](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0028.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0028.jpg 
+[07/01/2018 08:54:19](INFO) - retrieving /tmp/BL/beautyleg-1603-0038.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0038.jpg 
+[07/01/2018 08:54:21](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0032.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0032.jpg 
+[07/01/2018 08:54:21](INFO) - retrieving /tmp/BL/beautyleg-1603-0039.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0039.jpg 
+[07/01/2018 08:54:22](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0035.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0035.jpg 
+[07/01/2018 08:54:22](INFO) - retrieving /tmp/BL/beautyleg-1603-0040.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0040.jpg 
+[07/01/2018 08:54:22](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0017.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0017.jpg 
+[07/01/2018 08:54:22](INFO) - retrieving /tmp/BL/beautyleg-1603-0041.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0041.jpg 
+[07/01/2018 08:54:22](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0036.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0036.jpg 
+[07/01/2018 08:54:22](INFO) - retrieving /tmp/BL/beautyleg-1603-0042.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0042.jpg 
+[07/01/2018 08:54:23](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0031.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0031.jpg 
+[07/01/2018 08:54:23](INFO) - retrieving /tmp/BL/beautyleg-1603-0043.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0043.jpg 
+[07/01/2018 08:54:25](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0030.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0030.jpg 
+[07/01/2018 08:54:25](INFO) - retrieving /tmp/BL/beautyleg-1603-0044.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0044.jpg 
+[07/01/2018 08:54:25](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0040.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0040.jpg 
+[07/01/2018 08:54:25](INFO) - retrieving /tmp/BL/beautyleg-1603-0045.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0045.jpg 
+[07/01/2018 08:54:26](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0037.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0037.jpg 
+[07/01/2018 08:54:26](INFO) - retrieving /tmp/BL/beautyleg-1603-0046.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0046.jpg 
+[07/01/2018 08:54:27](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0033.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0033.jpg 
+[07/01/2018 08:54:27](INFO) - retrieving /tmp/BL/beautyleg-1603-0047.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0047.jpg 
+[07/01/2018 08:54:28](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0042.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0042.jpg 
+[07/01/2018 08:54:28](INFO) - retrieving /tmp/BL/beautyleg-1603-0048.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0048.jpg 
+[07/01/2018 08:54:29](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0039.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0039.jpg 
+[07/01/2018 08:54:29](INFO) - retrieving /tmp/BL/beautyleg-1603-0049.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0049.jpg 
+[07/01/2018 08:54:29](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0043.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0043.jpg 
+[07/01/2018 08:54:29](INFO) - retrieving /tmp/BL/beautyleg-1603-0050.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0050.jpg 
+[07/01/2018 08:54:30](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0041.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0041.jpg 
+[07/01/2018 08:54:30](INFO) - retrieving /tmp/BL/beautyleg-1603-0051.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0051.jpg 
+[07/01/2018 08:54:30](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0044.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0044.jpg 
+[07/01/2018 08:54:30](INFO) - retrieving /tmp/BL/beautyleg-1603-0052.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0052.jpg 
+[07/01/2018 08:54:30](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0045.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0045.jpg 
+[07/01/2018 08:54:30](INFO) - retrieving /tmp/BL/beautyleg-1603-0053.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0053.jpg 
+[07/01/2018 08:54:30](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0038.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0038.jpg 
+[07/01/2018 08:54:30](INFO) - retrieving /tmp/BL/beautyleg-1603-0054.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0054.jpg 
+[07/01/2018 08:54:31](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0054.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0054.jpg 
+[07/01/2018 08:54:31](INFO) - retrieving /tmp/BL/beautyleg-1603-0055.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0055.jpg 
+[07/01/2018 08:54:33](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0053.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0053.jpg 
+[07/01/2018 08:54:33](INFO) - retrieving /tmp/BL/beautyleg-1603-0056.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0056.jpg 
+[07/01/2018 08:54:33](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0047.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0047.jpg 
+[07/01/2018 08:54:33](INFO) - retrieving /tmp/BL/beautyleg-1603-0057.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0057.jpg 
+[07/01/2018 08:54:33](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0050.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0050.jpg 
+[07/01/2018 08:54:33](INFO) - retrieving /tmp/BL/beautyleg-1603-0058.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0058.jpg 
+[07/01/2018 08:54:33](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0056.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0056.jpg 
+[07/01/2018 08:54:33](INFO) - retrieving /tmp/BL/beautyleg-1603-0059.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0059.jpg 
+[07/01/2018 08:54:33](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0057.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0057.jpg 
+[07/01/2018 08:54:33](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0059.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0059.jpg 
+[07/01/2018 08:54:34](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0055.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0055.jpg 
+[07/01/2018 08:54:35](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0058.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0058.jpg 
+[07/01/2018 08:54:39](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0046.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0046.jpg 
+[07/01/2018 08:54:41](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0052.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0052.jpg 
+[07/01/2018 08:54:51](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0048.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0048.jpg 
+[07/01/2018 08:54:51](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0051.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0051.jpg 
+[07/01/2018 08:54:53](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0049.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0049.jpg 
+[07/01/2018 09:05:38](INFO) - retrieving /tmp/BL/beautyleg-1603-0000.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0000.jpg 
+[07/01/2018 09:05:38](INFO) - retrieving /tmp/BL/beautyleg-1603-0001.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0001.jpg 
+[07/01/2018 09:05:38](INFO) - retrieving /tmp/BL/beautyleg-1603-0002.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0002.jpg 
+[07/01/2018 09:05:38](INFO) - retrieving /tmp/BL/beautyleg-1603-0003.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0003.jpg 
+[07/01/2018 09:05:38](INFO) - retrieving /tmp/BL/beautyleg-1603-0004.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0004.jpg 
+[07/01/2018 09:05:47](WARNING) - '<' not supported between instances of 'str' and 'int' 
+[07/01/2018 09:05:47](INFO) - retrieving /tmp/BL/beautyleg-1603-0005.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0005.jpg 
+[07/01/2018 09:05:53](WARNING) - '<' not supported between instances of 'str' and 'int' 
+[07/01/2018 09:05:53](INFO) - retrieving /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 09:05:53](WARNING) - '<' not supported between instances of 'str' and 'int' 
+[07/01/2018 09:05:53](INFO) - retrieving /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 09:05:56](WARNING) - '<' not supported between instances of 'str' and 'int' 
+[07/01/2018 09:05:56](INFO) - retrieving /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 09:06:37](INFO) - retrieving /tmp/BL/beautyleg-1603-0000.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0000.jpg 
+[07/01/2018 09:06:37](INFO) - retrieving /tmp/BL/beautyleg-1603-0001.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0001.jpg 
+[07/01/2018 09:06:37](INFO) - retrieving /tmp/BL/beautyleg-1603-0002.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0002.jpg 
+[07/01/2018 09:06:37](INFO) - retrieving /tmp/BL/beautyleg-1603-0003.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0003.jpg 
+[07/01/2018 09:06:37](INFO) - retrieving /tmp/BL/beautyleg-1603-0004.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0004.jpg 
+[07/01/2018 09:06:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0002.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0002.jpg 
+[07/01/2018 09:06:42](INFO) - retrieving /tmp/BL/beautyleg-1603-0005.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0005.jpg 
+[07/01/2018 09:06:43](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0000.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0000.jpg 
+[07/01/2018 09:06:43](INFO) - retrieving /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 09:06:43](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0004.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0004.jpg 
+[07/01/2018 09:06:43](INFO) - retrieving /tmp/BL/beautyleg-1603-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg 
+[07/01/2018 09:06:44](INFO) - http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg is too small , skipped . 
+[07/01/2018 09:06:44](INFO) - retrieving /tmp/BL/beautyleg-1603-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg 
+[07/01/2018 09:06:44](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0001.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0001.jpg 
+[07/01/2018 09:06:44](INFO) - retrieving /tmp/BL/beautyleg-1603-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg 
+[07/01/2018 09:06:44](INFO) - http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg is too small , skipped . 
+[07/01/2018 09:06:44](INFO) - retrieving /tmp/BL/beautyleg-1603-0010.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0010.jpg 
+[07/01/2018 09:06:44](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0003.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0003.jpg 
+[07/01/2018 09:06:44](INFO) - retrieving /tmp/BL/beautyleg-1603-0011.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0011.jpg 
+[07/01/2018 09:06:44](INFO) - http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg is too small , skipped . 
+[07/01/2018 09:06:44](INFO) - retrieving /tmp/BL/beautyleg-1603-0012.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0012.jpg 
+[07/01/2018 09:06:46](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg 
+[07/01/2018 09:06:46](INFO) - retrieving /tmp/BL/beautyleg-1603-0013.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0013.jpg 
+[07/01/2018 09:06:46](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0005.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0005.jpg 
+[07/01/2018 09:06:46](INFO) - retrieving /tmp/BL/beautyleg-1603-0014.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0014.jpg 
+[07/01/2018 09:06:49](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0010.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0010.jpg 
+[07/01/2018 09:06:49](INFO) - retrieving /tmp/BL/beautyleg-1603-0015.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0015.jpg 
+[07/01/2018 09:06:49](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0012.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0012.jpg 
+[07/01/2018 09:06:49](INFO) - retrieving /tmp/BL/beautyleg-1603-0016.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0016.jpg 
+[07/01/2018 09:06:49](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0013.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0013.jpg 
+[07/01/2018 09:06:49](INFO) - retrieving /tmp/BL/beautyleg-1603-0017.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0017.jpg 
+[07/01/2018 09:06:50](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0011.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0011.jpg 
+[07/01/2018 09:06:50](INFO) - retrieving /tmp/BL/beautyleg-1603-0018.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0018.jpg 
+[07/01/2018 09:06:50](INFO) - http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0018.jpg is too small , skipped . 
+[07/01/2018 09:06:50](INFO) - retrieving /tmp/BL/beautyleg-1603-0019.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0019.jpg 
+[07/01/2018 09:06:52](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0014.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0014.jpg 
+[07/01/2018 09:06:52](INFO) - retrieving /tmp/BL/beautyleg-1603-0020.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0020.jpg 
+[07/01/2018 09:06:53](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0016.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0016.jpg 
+[07/01/2018 09:06:53](INFO) - retrieving /tmp/BL/beautyleg-1603-0021.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0021.jpg 
+[07/01/2018 09:06:53](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0017.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0017.jpg 
+[07/01/2018 09:06:53](INFO) - retrieving /tmp/BL/beautyleg-1603-0022.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0022.jpg 
+[07/01/2018 09:06:53](INFO) - http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0022.jpg is too small , skipped . 
+[07/01/2018 09:06:53](INFO) - retrieving /tmp/BL/beautyleg-1603-0023.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0023.jpg 
+[07/01/2018 09:06:54](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0015.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0015.jpg 
+[07/01/2018 09:06:54](INFO) - retrieving /tmp/BL/beautyleg-1603-0024.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0024.jpg 
+[07/01/2018 09:06:54](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0019.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0019.jpg 
+[07/01/2018 09:06:54](INFO) - retrieving /tmp/BL/beautyleg-1603-0025.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0025.jpg 
+[07/01/2018 09:06:58](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0020.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0020.jpg 
+[07/01/2018 09:06:58](INFO) - retrieving /tmp/BL/beautyleg-1603-0026.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0026.jpg 
+[07/01/2018 09:06:58](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0024.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0024.jpg 
+[07/01/2018 09:06:58](INFO) - retrieving /tmp/BL/beautyleg-1603-0027.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0027.jpg 
+[07/01/2018 09:07:00](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0025.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0025.jpg 
+[07/01/2018 09:07:00](INFO) - retrieving /tmp/BL/beautyleg-1603-0028.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0028.jpg 
+[07/01/2018 09:07:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0027.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0027.jpg 
+[07/01/2018 09:07:02](INFO) - retrieving /tmp/BL/beautyleg-1603-0029.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0029.jpg 
+[07/01/2018 09:07:03](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0026.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0026.jpg 
+[07/01/2018 09:07:03](INFO) - retrieving /tmp/BL/beautyleg-1603-0030.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0030.jpg 
+[07/01/2018 09:07:03](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0021.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0021.jpg 
+[07/01/2018 09:07:03](INFO) - retrieving /tmp/BL/beautyleg-1603-0031.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0031.jpg 
+[07/01/2018 09:07:06](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0029.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0029.jpg 
+[07/01/2018 09:07:06](INFO) - retrieving /tmp/BL/beautyleg-1603-0032.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0032.jpg 
+[07/01/2018 09:07:07](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0028.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0028.jpg 
+[07/01/2018 09:07:07](INFO) - retrieving /tmp/BL/beautyleg-1603-0033.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0033.jpg 
+[07/01/2018 09:07:08](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0030.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0030.jpg 
+[07/01/2018 09:07:08](INFO) - retrieving /tmp/BL/beautyleg-1603-0034.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0034.jpg 
+[07/01/2018 09:07:15](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0032.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0032.jpg 
+[07/01/2018 09:07:15](INFO) - retrieving /tmp/BL/beautyleg-1603-0035.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0035.jpg 
+[07/01/2018 09:07:15](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0033.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0033.jpg 
+[07/01/2018 09:07:15](INFO) - retrieving /tmp/BL/beautyleg-1603-0036.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0036.jpg 
+[07/01/2018 09:07:16](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0031.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0031.jpg 
+[07/01/2018 09:07:16](INFO) - retrieving /tmp/BL/beautyleg-1603-0037.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0037.jpg 
+[07/01/2018 09:07:19](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0034.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0034.jpg 
+[07/01/2018 09:07:19](INFO) - retrieving /tmp/BL/beautyleg-1603-0038.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0038.jpg 
+[07/01/2018 09:07:26](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0035.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0035.jpg 
+[07/01/2018 09:07:26](INFO) - retrieving /tmp/BL/beautyleg-1603-0039.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0039.jpg 
+[07/01/2018 09:07:26](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0036.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0036.jpg 
+[07/01/2018 09:07:26](INFO) - retrieving /tmp/BL/beautyleg-1603-0040.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0040.jpg 
+[07/01/2018 09:07:26](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0037.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0037.jpg 
+[07/01/2018 09:07:26](INFO) - retrieving /tmp/BL/beautyleg-1603-0041.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0041.jpg 
+[07/01/2018 09:07:28](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0038.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0038.jpg 
+[07/01/2018 09:07:28](INFO) - retrieving /tmp/BL/beautyleg-1603-0042.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0042.jpg 
+[07/01/2018 09:07:31](WARNING) - ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) 
+[07/01/2018 09:07:31](INFO) - retrieving /tmp/BL/beautyleg-1603-0043.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0043.jpg 
+[07/01/2018 09:07:33](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0041.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0041.jpg 
+[07/01/2018 09:07:33](INFO) - retrieving /tmp/BL/beautyleg-1603-0044.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0044.jpg 
+[07/01/2018 09:07:33](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0039.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0039.jpg 
+[07/01/2018 09:07:33](INFO) - retrieving /tmp/BL/beautyleg-1603-0045.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0045.jpg 
+[07/01/2018 09:07:34](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0040.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0040.jpg 
+[07/01/2018 09:07:34](INFO) - retrieving /tmp/BL/beautyleg-1603-0046.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0046.jpg 
+[07/01/2018 09:07:35](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0042.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0042.jpg 
+[07/01/2018 09:07:35](INFO) - retrieving /tmp/BL/beautyleg-1603-0047.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0047.jpg 
+[07/01/2018 09:07:35](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0043.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0043.jpg 
+[07/01/2018 09:07:35](INFO) - retrieving /tmp/BL/beautyleg-1603-0048.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0048.jpg 
+[07/01/2018 09:07:37](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0044.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0044.jpg 
+[07/01/2018 09:07:37](INFO) - retrieving /tmp/BL/beautyleg-1603-0049.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0049.jpg 
+[07/01/2018 09:07:39](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0046.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0046.jpg 
+[07/01/2018 09:07:39](INFO) - retrieving /tmp/BL/beautyleg-1603-0050.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0050.jpg 
+[07/01/2018 09:07:39](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0045.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0045.jpg 
+[07/01/2018 09:07:39](INFO) - retrieving /tmp/BL/beautyleg-1603-0051.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0051.jpg 
+[07/01/2018 09:07:39](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0047.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0047.jpg 
+[07/01/2018 09:07:39](INFO) - retrieving /tmp/BL/beautyleg-1603-0052.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0052.jpg 
+[07/01/2018 09:07:40](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0048.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0048.jpg 
+[07/01/2018 09:07:40](INFO) - retrieving /tmp/BL/beautyleg-1603-0053.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0053.jpg 
+[07/01/2018 09:07:40](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0049.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0049.jpg 
+[07/01/2018 09:07:40](INFO) - retrieving /tmp/BL/beautyleg-1603-0054.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0054.jpg 
+[07/01/2018 09:07:41](INFO) - Failed to retrieved http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0053.jpg , status code 404 
+[07/01/2018 09:07:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0055.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0055.jpg 
+[07/01/2018 09:07:41](INFO) - Failed to retrieved http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0054.jpg , status code 404 
+[07/01/2018 09:07:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0056.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0056.jpg 
+[07/01/2018 09:07:41](INFO) - Failed to retrieved http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0055.jpg , status code 404 
+[07/01/2018 09:07:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0057.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0057.jpg 
+[07/01/2018 09:07:41](INFO) - Failed to retrieved http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0056.jpg , status code 404 
+[07/01/2018 09:07:41](INFO) - retrieving /tmp/BL/beautyleg-1603-0058.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0058.jpg 
+[07/01/2018 09:07:42](INFO) - Failed to retrieved http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0057.jpg , status code 404 
+[07/01/2018 09:07:42](INFO) - retrieving /tmp/BL/beautyleg-1603-0059.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0059.jpg 
+[07/01/2018 09:07:42](INFO) - Failed to retrieved http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0058.jpg , status code 404 
+[07/01/2018 09:07:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0050.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0050.jpg 
+[07/01/2018 09:07:42](INFO) - Failed to retrieved http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0059.jpg , status code 404 
+[07/01/2018 09:07:43](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0051.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0051.jpg 
+[07/01/2018 09:07:45](INFO) - Successfully retrievied /tmp/BL/beautyleg-1603-0052.jpg from http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0052.jpg 
+[07/01/2018 09:07:45](INFO) -  Result:{<Future at 0x7f3f9dde1b70 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0000.jpg', <Future at 0x7f3f9e128d30 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0001.jpg', <Future at 0x7f3f9c97b128 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0002.jpg', <Future at 0x7f3f9c97ba90 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0003.jpg', <Future at 0x7f3f9c986438 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0004.jpg', <Future at 0x7f3f9c986da0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0005.jpg', <Future at 0x7f3f9c986e80 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0006.jpg', <Future at 0x7f3f9c986f28 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0007.jpg', <Future at 0x7f3f9c986fd0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0008.jpg', <Future at 0x7f3f9c9970b8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0009.jpg', <Future at 0x7f3f9c997160 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0010.jpg', <Future at 0x7f3f9c997208 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0011.jpg', <Future at 0x7f3f9c9972b0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0012.jpg', <Future at 0x7f3f9c997358 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0013.jpg', <Future at 0x7f3f9c997400 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0014.jpg', <Future at 0x7f3f9c9974a8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0015.jpg', <Future at 0x7f3f9c997550 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0016.jpg', <Future at 0x7f3f9c9975f8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0017.jpg', <Future at 0x7f3f9c9976a0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0018.jpg', <Future at 0x7f3f9c997748 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0019.jpg', <Future at 0x7f3f9c9977f0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0020.jpg', <Future at 0x7f3f9c997898 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0021.jpg', <Future at 0x7f3f9c997940 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0022.jpg', <Future at 0x7f3f9c9979e8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0023.jpg', <Future at 0x7f3f9c997a90 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0024.jpg', <Future at 0x7f3f9c997b38 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0025.jpg', <Future at 0x7f3f9c997be0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0026.jpg', <Future at 0x7f3f9c997c88 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0027.jpg', <Future at 0x7f3f9c997d30 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0028.jpg', <Future at 0x7f3f9c997dd8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0029.jpg', <Future at 0x7f3f9c997e80 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0030.jpg', <Future at 0x7f3f9c997f28 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0031.jpg', <Future at 0x7f3f9c997fd0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0032.jpg', <Future at 0x7f3f9c99f0b8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0033.jpg', <Future at 0x7f3f9c99f160 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0034.jpg', <Future at 0x7f3f9c99f208 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0035.jpg', <Future at 0x7f3f9c99f2b0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0036.jpg', <Future at 0x7f3f9c99f358 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0037.jpg', <Future at 0x7f3f9c99f400 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0038.jpg', <Future at 0x7f3f9c99f4a8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0039.jpg', <Future at 0x7f3f9c99f550 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0040.jpg', <Future at 0x7f3f9c99f5f8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0041.jpg', <Future at 0x7f3f9c99f6a0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0042.jpg', <Future at 0x7f3f9c99f748 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0043.jpg', <Future at 0x7f3f9c99f7f0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0044.jpg', <Future at 0x7f3f9c99f898 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0045.jpg', <Future at 0x7f3f9c99f940 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0046.jpg', <Future at 0x7f3f9c99f9e8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0047.jpg', <Future at 0x7f3f9c99fa90 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0048.jpg', <Future at 0x7f3f9c99fb38 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0049.jpg', <Future at 0x7f3f9c99fbe0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0050.jpg', <Future at 0x7f3f9c99fc88 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0051.jpg', <Future at 0x7f3f9c99fd30 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0052.jpg', <Future at 0x7f3f9c99fdd8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0053.jpg', <Future at 0x7f3f9c99fe80 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0054.jpg', <Future at 0x7f3f9c99ff28 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0055.jpg', <Future at 0x7f3f9c99ffd0 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0056.jpg', <Future at 0x7f3f9c9a80b8 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0057.jpg', <Future at 0x7f3f9c9a8160 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0058.jpg', <Future at 0x7f3f9c9a8208 state=finished returned int>: 'http://www.beautylegmm.com/photo/beautyleg/2018/1603/beautyleg-1603-0059.jpg'} 
+[07/01/2018 09:13:04](INFO) - retrieving /tmp/BL/beautyleg-1169-0000.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0000.jpg 
+[07/01/2018 09:13:04](INFO) - retrieving /tmp/BL/beautyleg-1169-0001.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0001.jpg 
+[07/01/2018 09:13:04](INFO) - retrieving /tmp/BL/beautyleg-1169-0002.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0002.jpg 
+[07/01/2018 09:13:04](INFO) - retrieving /tmp/BL/beautyleg-1169-0003.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0003.jpg 
+[07/01/2018 09:13:04](INFO) - retrieving /tmp/BL/beautyleg-1169-0004.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0004.jpg 
+[07/01/2018 09:13:08](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0000.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0000.jpg 
+[07/01/2018 09:13:08](INFO) - retrieving /tmp/BL/beautyleg-1169-0005.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0005.jpg 
+[07/01/2018 09:13:12](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0005.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0005.jpg 
+[07/01/2018 09:13:12](INFO) - retrieving /tmp/BL/beautyleg-1169-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0006.jpg 
+[07/01/2018 09:13:19](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0006.jpg 
+[07/01/2018 09:13:19](INFO) - retrieving /tmp/BL/beautyleg-1169-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0007.jpg 
+[07/01/2018 09:13:25](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0007.jpg 
+[07/01/2018 09:13:25](INFO) - retrieving /tmp/BL/beautyleg-1169-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0008.jpg 
+[07/01/2018 09:13:28](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0008.jpg 
+[07/01/2018 09:13:28](INFO) - retrieving /tmp/BL/beautyleg-1169-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0009.jpg 
+[07/01/2018 09:13:32](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0009.jpg 
+[07/01/2018 09:13:32](INFO) - retrieving /tmp/BL/beautyleg-1169-0010.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0010.jpg 
+[07/01/2018 09:13:36](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0010.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0010.jpg 
+[07/01/2018 09:13:36](INFO) - retrieving /tmp/BL/beautyleg-1169-0011.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0011.jpg 
+[07/01/2018 09:13:38](WARNING) - ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) 
+[07/01/2018 09:13:38](INFO) - retrieving /tmp/BL/beautyleg-1169-0012.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0012.jpg 
+[07/01/2018 09:13:38](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0011.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0011.jpg 
+[07/01/2018 09:13:38](INFO) - retrieving /tmp/BL/beautyleg-1169-0013.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0013.jpg 
+[07/01/2018 09:13:38](WARNING) - ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) 
+[07/01/2018 09:13:38](INFO) - retrieving /tmp/BL/beautyleg-1169-0014.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0014.jpg 
+[07/01/2018 09:13:39](INFO) - http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0014.jpg is too small , skipped . 
+[07/01/2018 09:13:39](INFO) - retrieving /tmp/BL/beautyleg-1169-0015.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0015.jpg 
+[07/01/2018 09:13:39](WARNING) - ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) 
+[07/01/2018 09:13:39](INFO) - retrieving /tmp/BL/beautyleg-1169-0016.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0016.jpg 
+[07/01/2018 09:13:39](WARNING) - ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) 
+[07/01/2018 09:13:39](INFO) - retrieving /tmp/BL/beautyleg-1169-0017.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0017.jpg 
+[07/01/2018 09:13:40](INFO) - http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0017.jpg is too small , skipped . 
+[07/01/2018 09:13:40](INFO) - retrieving /tmp/BL/beautyleg-1169-0018.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0018.jpg 
+[07/01/2018 09:13:40](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0012.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0012.jpg 
+[07/01/2018 09:13:40](INFO) - retrieving /tmp/BL/beautyleg-1169-0019.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0019.jpg 
+[07/01/2018 09:13:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0013.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0013.jpg 
+[07/01/2018 09:13:42](INFO) - retrieving /tmp/BL/beautyleg-1169-0020.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0020.jpg 
+[07/01/2018 09:13:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0016.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0016.jpg 
+[07/01/2018 09:13:42](INFO) - retrieving /tmp/BL/beautyleg-1169-0021.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0021.jpg 
+[07/01/2018 09:13:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0015.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0015.jpg 
+[07/01/2018 09:13:42](INFO) - retrieving /tmp/BL/beautyleg-1169-0022.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0022.jpg 
+[07/01/2018 09:13:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0019.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0019.jpg 
+[07/01/2018 09:13:42](INFO) - retrieving /tmp/BL/beautyleg-1169-0023.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0023.jpg 
+[07/01/2018 09:13:45](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0020.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0020.jpg 
+[07/01/2018 09:13:45](INFO) - retrieving /tmp/BL/beautyleg-1169-0024.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0024.jpg 
+[07/01/2018 09:13:46](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0022.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0022.jpg 
+[07/01/2018 09:13:46](INFO) - retrieving /tmp/BL/beautyleg-1169-0025.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0025.jpg 
+[07/01/2018 09:13:46](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0021.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0021.jpg 
+[07/01/2018 09:13:46](INFO) - retrieving /tmp/BL/beautyleg-1169-0026.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0026.jpg 
+[07/01/2018 09:13:46](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0023.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0023.jpg 
+[07/01/2018 09:13:46](INFO) - retrieving /tmp/BL/beautyleg-1169-0027.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0027.jpg 
+[07/01/2018 09:13:47](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0018.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0018.jpg 
+[07/01/2018 09:13:47](INFO) - retrieving /tmp/BL/beautyleg-1169-0028.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0028.jpg 
+[07/01/2018 09:13:47](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0024.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0024.jpg 
+[07/01/2018 09:13:47](INFO) - retrieving /tmp/BL/beautyleg-1169-0029.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0029.jpg 
+[07/01/2018 09:13:48](INFO) - http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0029.jpg is too small , skipped . 
+[07/01/2018 09:13:48](INFO) - retrieving /tmp/BL/beautyleg-1169-0030.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0030.jpg 
+[07/01/2018 09:13:49](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0025.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0025.jpg 
+[07/01/2018 09:13:49](INFO) - retrieving /tmp/BL/beautyleg-1169-0031.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0031.jpg 
+[07/01/2018 09:13:49](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0026.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0026.jpg 
+[07/01/2018 09:13:49](INFO) - retrieving /tmp/BL/beautyleg-1169-0032.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0032.jpg 
+[07/01/2018 09:13:49](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0027.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0027.jpg 
+[07/01/2018 09:13:49](INFO) - retrieving /tmp/BL/beautyleg-1169-0033.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0033.jpg 
+[07/01/2018 09:13:49](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0028.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0028.jpg 
+[07/01/2018 09:13:49](INFO) - retrieving /tmp/BL/beautyleg-1169-0034.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0034.jpg 
+[07/01/2018 09:13:55](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0030.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0030.jpg 
+[07/01/2018 09:13:55](INFO) - retrieving /tmp/BL/beautyleg-1169-0035.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0035.jpg 
+[07/01/2018 09:13:56](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0032.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0032.jpg 
+[07/01/2018 09:13:56](INFO) - retrieving /tmp/BL/beautyleg-1169-0036.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0036.jpg 
+[07/01/2018 09:13:56](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0033.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0033.jpg 
+[07/01/2018 09:13:56](INFO) - retrieving /tmp/BL/beautyleg-1169-0037.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0037.jpg 
+[07/01/2018 09:13:56](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0034.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0034.jpg 
+[07/01/2018 09:13:56](INFO) - retrieving /tmp/BL/beautyleg-1169-0038.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0038.jpg 
+[07/01/2018 09:13:56](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0031.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0031.jpg 
+[07/01/2018 09:13:56](INFO) - retrieving /tmp/BL/beautyleg-1169-0039.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0039.jpg 
+[07/01/2018 09:13:59](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0035.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0035.jpg 
+[07/01/2018 09:13:59](INFO) - retrieving /tmp/BL/beautyleg-1169-0040.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0040.jpg 
+[07/01/2018 09:13:59](INFO) - http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0040.jpg is too small , skipped . 
+[07/01/2018 09:13:59](INFO) - retrieving /tmp/BL/beautyleg-1169-0041.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0041.jpg 
+[07/01/2018 09:14:00](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0039.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0039.jpg 
+[07/01/2018 09:14:00](INFO) - retrieving /tmp/BL/beautyleg-1169-0042.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0042.jpg 
+[07/01/2018 09:14:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0041.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0041.jpg 
+[07/01/2018 09:14:02](INFO) - retrieving /tmp/BL/beautyleg-1169-0043.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0043.jpg 
+[07/01/2018 09:14:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0042.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0042.jpg 
+[07/01/2018 09:14:02](INFO) - retrieving /tmp/BL/beautyleg-1169-0044.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0044.jpg 
+[07/01/2018 09:14:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0037.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0037.jpg 
+[07/01/2018 09:14:02](INFO) - retrieving /tmp/BL/beautyleg-1169-0045.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0045.jpg 
+[07/01/2018 09:14:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0036.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0036.jpg 
+[07/01/2018 09:14:02](INFO) - retrieving /tmp/BL/beautyleg-1169-0046.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0046.jpg 
+[07/01/2018 09:14:02](INFO) - http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0043.jpg is too small , skipped . 
+[07/01/2018 09:14:02](INFO) - retrieving /tmp/BL/beautyleg-1169-0047.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0047.jpg 
+[07/01/2018 09:14:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0038.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0038.jpg 
+[07/01/2018 09:14:02](INFO) - retrieving /tmp/BL/beautyleg-1169-0048.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0048.jpg 
+[07/01/2018 09:14:05](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0044.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0044.jpg 
+[07/01/2018 09:14:05](INFO) - retrieving /tmp/BL/beautyleg-1169-0049.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0049.jpg 
+[07/01/2018 09:14:06](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0045.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0045.jpg 
+[07/01/2018 09:14:06](INFO) - retrieving /tmp/BL/beautyleg-1169-0050.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0050.jpg 
+[07/01/2018 09:14:06](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0047.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0047.jpg 
+[07/01/2018 09:14:06](INFO) - retrieving /tmp/BL/beautyleg-1169-0051.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0051.jpg 
+[07/01/2018 09:14:08](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0046.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0046.jpg 
+[07/01/2018 09:14:08](INFO) - retrieving /tmp/BL/beautyleg-1169-0052.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0052.jpg 
+[07/01/2018 09:14:09](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0048.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0048.jpg 
+[07/01/2018 09:14:09](INFO) - retrieving /tmp/BL/beautyleg-1169-0053.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0053.jpg 
+[07/01/2018 09:14:10](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0049.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0049.jpg 
+[07/01/2018 09:14:10](INFO) - retrieving /tmp/BL/beautyleg-1169-0054.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0054.jpg 
+[07/01/2018 09:14:11](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0050.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0050.jpg 
+[07/01/2018 09:14:11](INFO) - retrieving /tmp/BL/beautyleg-1169-0055.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0055.jpg 
+[07/01/2018 09:14:11](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0051.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0051.jpg 
+[07/01/2018 09:14:11](INFO) - retrieving /tmp/BL/beautyleg-1169-0056.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0056.jpg 
+[07/01/2018 09:14:14](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0054.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0054.jpg 
+[07/01/2018 09:14:14](INFO) - retrieving /tmp/BL/beautyleg-1169-0057.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0057.jpg 
+[07/01/2018 09:14:15](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0052.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0052.jpg 
+[07/01/2018 09:14:15](INFO) - retrieving /tmp/BL/beautyleg-1169-0058.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0058.jpg 
+[07/01/2018 09:14:16](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0056.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0056.jpg 
+[07/01/2018 09:14:16](INFO) - retrieving /tmp/BL/beautyleg-1169-0059.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0059.jpg 
+[07/01/2018 09:14:16](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0053.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0053.jpg 
+[07/01/2018 09:14:18](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0057.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0057.jpg 
+[07/01/2018 09:14:18](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0055.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0055.jpg 
+[07/01/2018 09:14:20](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0058.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0058.jpg 
+[07/01/2018 09:14:20](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0059.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0059.jpg 
+[07/01/2018 09:15:24](INFO) - retrieving /tmp/BL/beautyleg-1169-0001.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0001.jpg 
+[07/01/2018 09:15:24](INFO) - retrieving /tmp/BL/beautyleg-1169-0002.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0002.jpg 
+[07/01/2018 09:15:24](INFO) - retrieving /tmp/BL/beautyleg-1169-0003.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0003.jpg 
+[07/01/2018 09:15:24](INFO) - retrieving /tmp/BL/beautyleg-1169-0004.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0004.jpg 
+[07/01/2018 09:15:24](INFO) - retrieving /tmp/BL/beautyleg-1169-0005.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0005.jpg 
+[07/01/2018 09:15:27](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0005.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0005.jpg 
+[07/01/2018 09:15:27](INFO) - retrieving /tmp/BL/beautyleg-1169-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0006.jpg 
+[07/01/2018 09:15:27](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0004.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0004.jpg 
+[07/01/2018 09:15:27](INFO) - retrieving /tmp/BL/beautyleg-1169-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0007.jpg 
+[07/01/2018 09:15:28](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0003.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0003.jpg 
+[07/01/2018 09:15:28](INFO) - retrieving /tmp/BL/beautyleg-1169-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0008.jpg 
+[07/01/2018 09:15:28](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0001.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0001.jpg 
+[07/01/2018 09:15:28](INFO) - retrieving /tmp/BL/beautyleg-1169-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0009.jpg 
+[07/01/2018 09:15:30](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0002.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0002.jpg 
+[07/01/2018 09:15:30](INFO) - retrieving /tmp/BL/beautyleg-1169-0010.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0010.jpg 
+[07/01/2018 09:15:31](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0007.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0007.jpg 
+[07/01/2018 09:15:31](INFO) - retrieving /tmp/BL/beautyleg-1169-0011.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0011.jpg 
+[07/01/2018 09:15:31](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0006.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0006.jpg 
+[07/01/2018 09:15:31](INFO) - retrieving /tmp/BL/beautyleg-1169-0012.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0012.jpg 
+[07/01/2018 09:15:32](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0009.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0009.jpg 
+[07/01/2018 09:15:32](INFO) - retrieving /tmp/BL/beautyleg-1169-0013.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0013.jpg 
+[07/01/2018 09:15:34](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0011.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0011.jpg 
+[07/01/2018 09:15:34](INFO) - retrieving /tmp/BL/beautyleg-1169-0014.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0014.jpg 
+[07/01/2018 09:15:36](INFO) - http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0014.jpg is too small , skipped . 
+[07/01/2018 09:15:36](INFO) - retrieving /tmp/BL/beautyleg-1169-0015.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0015.jpg 
+[07/01/2018 09:15:39](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0010.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0010.jpg 
+[07/01/2018 09:15:39](INFO) - retrieving /tmp/BL/beautyleg-1169-0016.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0016.jpg 
+[07/01/2018 09:15:39](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0008.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0008.jpg 
+[07/01/2018 09:15:39](INFO) - retrieving /tmp/BL/beautyleg-1169-0017.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0017.jpg 
+[07/01/2018 09:15:40](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0013.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0013.jpg 
+[07/01/2018 09:15:40](INFO) - retrieving /tmp/BL/beautyleg-1169-0018.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0018.jpg 
+[07/01/2018 09:15:40](INFO) - http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0017.jpg is too small , skipped . 
+[07/01/2018 09:15:40](INFO) - retrieving /tmp/BL/beautyleg-1169-0019.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0019.jpg 
+[07/01/2018 09:15:40](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0012.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0012.jpg 
+[07/01/2018 09:15:40](INFO) - retrieving /tmp/BL/beautyleg-1169-0020.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0020.jpg 
+[07/01/2018 09:15:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0019.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0019.jpg 
+[07/01/2018 09:15:42](INFO) - retrieving /tmp/BL/beautyleg-1169-0021.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0021.jpg 
+[07/01/2018 09:15:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0015.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0015.jpg 
+[07/01/2018 09:15:42](INFO) - retrieving /tmp/BL/beautyleg-1169-0022.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0022.jpg 
+[07/01/2018 09:15:42](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0016.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0016.jpg 
+[07/01/2018 09:15:42](INFO) - retrieving /tmp/BL/beautyleg-1169-0023.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0023.jpg 
+[07/01/2018 09:15:43](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0018.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0018.jpg 
+[07/01/2018 09:15:43](INFO) - retrieving /tmp/BL/beautyleg-1169-0024.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0024.jpg 
+[07/01/2018 09:15:44](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0020.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0020.jpg 
+[07/01/2018 09:15:44](INFO) - retrieving /tmp/BL/beautyleg-1169-0025.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0025.jpg 
+[07/01/2018 09:15:44](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0022.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0022.jpg 
+[07/01/2018 09:15:44](INFO) - retrieving /tmp/BL/beautyleg-1169-0026.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0026.jpg 
+[07/01/2018 09:15:45](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0021.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0021.jpg 
+[07/01/2018 09:15:45](INFO) - retrieving /tmp/BL/beautyleg-1169-0027.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0027.jpg 
+[07/01/2018 09:15:47](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0023.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0023.jpg 
+[07/01/2018 09:15:47](INFO) - retrieving /tmp/BL/beautyleg-1169-0028.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0028.jpg 
+[07/01/2018 09:15:48](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0025.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0025.jpg 
+[07/01/2018 09:15:48](INFO) - retrieving /tmp/BL/beautyleg-1169-0029.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0029.jpg 
+[07/01/2018 09:15:48](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0027.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0027.jpg 
+[07/01/2018 09:15:48](INFO) - retrieving /tmp/BL/beautyleg-1169-0030.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0030.jpg 
+[07/01/2018 09:15:48](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0024.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0024.jpg 
+[07/01/2018 09:15:48](INFO) - retrieving /tmp/BL/beautyleg-1169-0031.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0031.jpg 
+[07/01/2018 09:15:48](INFO) - http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0029.jpg is too small , skipped . 
+[07/01/2018 09:15:48](INFO) - retrieving /tmp/BL/beautyleg-1169-0032.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0032.jpg 
+[07/01/2018 09:15:48](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0026.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0026.jpg 
+[07/01/2018 09:15:48](INFO) - retrieving /tmp/BL/beautyleg-1169-0033.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0033.jpg 
+[07/01/2018 09:15:50](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0028.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0028.jpg 
+[07/01/2018 09:15:50](INFO) - retrieving /tmp/BL/beautyleg-1169-0034.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0034.jpg 
+[07/01/2018 09:15:51](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0032.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0032.jpg 
+[07/01/2018 09:15:51](INFO) - retrieving /tmp/BL/beautyleg-1169-0035.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0035.jpg 
+[07/01/2018 09:15:52](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0030.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0030.jpg 
+[07/01/2018 09:15:52](INFO) - retrieving /tmp/BL/beautyleg-1169-0036.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0036.jpg 
+[07/01/2018 09:15:53](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0034.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0034.jpg 
+[07/01/2018 09:15:53](INFO) - retrieving /tmp/BL/beautyleg-1169-0037.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0037.jpg 
+[07/01/2018 09:15:53](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0031.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0031.jpg 
+[07/01/2018 09:15:53](INFO) - retrieving /tmp/BL/beautyleg-1169-0038.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0038.jpg 
+[07/01/2018 09:15:53](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0033.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0033.jpg 
+[07/01/2018 09:15:53](INFO) - retrieving /tmp/BL/beautyleg-1169-0039.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0039.jpg 
+[07/01/2018 09:15:54](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0035.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0035.jpg 
+[07/01/2018 09:15:54](INFO) - retrieving /tmp/BL/beautyleg-1169-0040.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0040.jpg 
+[07/01/2018 09:15:55](INFO) - http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0040.jpg is too small , skipped . 
+[07/01/2018 09:15:55](INFO) - retrieving /tmp/BL/beautyleg-1169-0041.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0041.jpg 
+[07/01/2018 09:15:56](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0037.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0037.jpg 
+[07/01/2018 09:15:56](INFO) - retrieving /tmp/BL/beautyleg-1169-0042.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0042.jpg 
+[07/01/2018 09:15:57](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0036.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0036.jpg 
+[07/01/2018 09:15:57](INFO) - retrieving /tmp/BL/beautyleg-1169-0043.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0043.jpg 
+[07/01/2018 09:15:57](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0041.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0041.jpg 
+[07/01/2018 09:15:57](INFO) - retrieving /tmp/BL/beautyleg-1169-0044.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0044.jpg 
+[07/01/2018 09:15:57](INFO) - http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0043.jpg is too small , skipped . 
+[07/01/2018 09:15:57](INFO) - retrieving /tmp/BL/beautyleg-1169-0045.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0045.jpg 
+[07/01/2018 09:15:58](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0042.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0042.jpg 
+[07/01/2018 09:15:58](INFO) - retrieving /tmp/BL/beautyleg-1169-0046.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0046.jpg 
+[07/01/2018 09:15:59](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0038.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0038.jpg 
+[07/01/2018 09:15:59](INFO) - retrieving /tmp/BL/beautyleg-1169-0047.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0047.jpg 
+[07/01/2018 09:16:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0044.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0044.jpg 
+[07/01/2018 09:16:02](INFO) - retrieving /tmp/BL/beautyleg-1169-0048.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0048.jpg 
+[07/01/2018 09:16:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0039.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0039.jpg 
+[07/01/2018 09:16:02](INFO) - retrieving /tmp/BL/beautyleg-1169-0049.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0049.jpg 
+[07/01/2018 09:16:02](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0045.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0045.jpg 
+[07/01/2018 09:16:02](INFO) - retrieving /tmp/BL/beautyleg-1169-0050.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0050.jpg 
+[07/01/2018 09:16:04](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0046.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0046.jpg 
+[07/01/2018 09:16:04](INFO) - retrieving /tmp/BL/beautyleg-1169-0051.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0051.jpg 
+[07/01/2018 09:16:04](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0047.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0047.jpg 
+[07/01/2018 09:16:04](INFO) - retrieving /tmp/BL/beautyleg-1169-0052.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0052.jpg 
+[07/01/2018 09:16:05](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0048.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0048.jpg 
+[07/01/2018 09:16:05](INFO) - retrieving /tmp/BL/beautyleg-1169-0053.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0053.jpg 
+[07/01/2018 09:16:06](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0049.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0049.jpg 
+[07/01/2018 09:16:06](INFO) - retrieving /tmp/BL/beautyleg-1169-0054.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0054.jpg 
+[07/01/2018 09:16:07](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0051.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0051.jpg 
+[07/01/2018 09:16:07](INFO) - retrieving /tmp/BL/beautyleg-1169-0055.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0055.jpg 
+[07/01/2018 09:16:08](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0053.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0053.jpg 
+[07/01/2018 09:16:08](INFO) - retrieving /tmp/BL/beautyleg-1169-0056.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0056.jpg 
+[07/01/2018 09:16:08](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0052.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0052.jpg 
+[07/01/2018 09:16:08](INFO) - retrieving /tmp/BL/beautyleg-1169-0057.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0057.jpg 
+[07/01/2018 09:16:10](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0050.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0050.jpg 
+[07/01/2018 09:16:10](INFO) - retrieving /tmp/BL/beautyleg-1169-0058.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0058.jpg 
+[07/01/2018 09:16:13](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0055.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0055.jpg 
+[07/01/2018 09:16:13](INFO) - retrieving /tmp/BL/beautyleg-1169-0059.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0059.jpg 
+[07/01/2018 09:16:16](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0056.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0056.jpg 
+[07/01/2018 09:16:16](INFO) - retrieving /tmp/BL/beautyleg-1169-0060.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0060.jpg 
+[07/01/2018 09:16:16](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0054.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0054.jpg 
+[07/01/2018 09:16:16](INFO) - retrieving /tmp/BL/beautyleg-1169-0061.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0061.jpg 
+[07/01/2018 09:16:17](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0057.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0057.jpg 
+[07/01/2018 09:16:17](INFO) - retrieving /tmp/BL/beautyleg-1169-0062.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0062.jpg 
+[07/01/2018 09:16:18](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0058.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0058.jpg 
+[07/01/2018 09:16:18](INFO) - retrieving /tmp/BL/beautyleg-1169-0063.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0063.jpg 
+[07/01/2018 09:16:20](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0060.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0060.jpg 
+[07/01/2018 09:16:20](INFO) - retrieving /tmp/BL/beautyleg-1169-0064.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0064.jpg 
+[07/01/2018 09:16:21](INFO) - Failed to retrieved http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0064.jpg , status code 404 
+[07/01/2018 09:16:22](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0062.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0062.jpg 
+[07/01/2018 09:16:22](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0063.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0063.jpg 
+[07/01/2018 09:16:22](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0061.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0061.jpg 
+[07/01/2018 09:16:25](INFO) - Successfully retrievied /tmp/BL/beautyleg-1169-0059.jpg from http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-0059.jpg 
