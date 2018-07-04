@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# 多进程的优点 
+# - 避免全局线程锁，进程可控制
+# 多进程的缺点
+# - 消耗内存，跨进程访问较麻烦
 import multiprocessing
 from random import randint
 import time
@@ -12,7 +16,8 @@ def worker(procnum):
     return getpid()
 
 def foo(n,queue):
-    time.sleep(0.3)
+    time.sleep(randint(500,1000)*0.001)
+    print(n)
     queue.put(n**2)
 
 def sample_pool():
@@ -23,14 +28,15 @@ def sample_queue():
     queue = multiprocessing.Queue(maxsize=100)
     result = []
     jobs = []
-    for i in xrange(1,15):
+    for i in xrange(1,25):
         p = multiprocessing.Process(target=foo,args=(i,queue))
         jobs.append(p)
         p.start()
 
-    for i in xrange(1,15):
+    for p in jobs:
         result.append(queue.get())
-        p.join()
+
+    queue.join()
 
     print result
 
