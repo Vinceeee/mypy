@@ -77,16 +77,17 @@ def searchModelByName(name,page=None):
         if not next_page:
             break
         page = next_page[0]
-        time.sleep(3) #做人留一线 日后好相见
+        time.sleep(2) #做人留一线 日后好相见
 
     return series_list
 
 if __name__ == '__main__':
 
     s_list = searchModelByName("Lucy")
-    s_list.reverse()
-    for each in s_list:
-        getImage(each[0])
+    print(s_list)
+#   s_list.reverse()
+#   for each in s_list:
+#       getImage(each[0])
 
 
     # getImage("http://www.beautylegmm.com/Lucy/beautyleg-771.html?page=10")

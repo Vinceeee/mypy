@@ -10,6 +10,24 @@ from random import randint
 import time
 from os import getpid
 
+def run(instance,func_name):
+    """
+    这特么蛋碎的东西
+    一定要最顶层才能够被pickled
+    不然就不能执行对象方法
+    """
+    func = getattr(instance,func_name)
+    func()
+    
+class BadGirl(object):
+    def __init__(self):
+        pass
+
+    def skr(self):
+        print(time.time())
+        print(u"这个没混直接发")
+        time.sleep(2.3)
+
 def worker(procnum):
     print 'I am number %d in process %d' % (procnum, getpid())
     time.sleep(3.5)
@@ -40,6 +58,15 @@ def sample_queue():
 
     print result
 
+def main():
+
+    pool = multiprocessing.Pool(processes = 3)
+    for i in xrange(10):
+        pool.apply_async(run,args=(BadGirl(),"skr"))
+
+    pool.close()
+    pool.join()
+    
 
 if __name__ == '__main__':
-    sample_queue()
+    main()
