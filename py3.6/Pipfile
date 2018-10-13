@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = false
+name = "pypi"
+
+[packages]
+ipython = "*"
+sanic = "*"
+ipdb = "*"
+
+[dev-packages]
+ipython = "*"
+ipdb = "*"
+sanic = "*"
+
+[requires]
+python_version = "3.6"

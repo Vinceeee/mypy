@@ -82,12 +82,9 @@ def searchModelByName(name,page=None):
     return series_list
 
 if __name__ == '__main__':
-
-    s_list = searchModelByName("Lucy")
-    print(s_list)
-#   s_list.reverse()
-#   for each in s_list:
-#       getImage(each[0])
-
-
+    s_list = searchModelByName("Vicni")
+    s_list.reverse()
+    from pprint import PrettyPrinter
+    p = PrettyPrinter(indent=4)
+    p.pprint(s_list)
     # getImage("http://www.beautylegmm.com/Lucy/beautyleg-771.html?page=10")
