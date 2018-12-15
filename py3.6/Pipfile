@@ -7,6 +7,8 @@ name = "pypi"
 ipython = "*"
 sanic = "*"
 ipdb = "*"
+uvloop = "*"
+django = "*"
 
 [dev-packages]
 ipython = "*"
