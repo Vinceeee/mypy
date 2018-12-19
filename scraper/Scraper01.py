@@ -7,12 +7,14 @@ import time
 import os,re
 from io import BytesIO
 import requests
+import threading
 from urllib.error import ContentTooShortError
 
 from requests.exceptions import ConnectionError,ConnectTimeout
 
 PAGENAME="http://www.beautylegmm.com"
 MAX_RETRY=3
+
 # Save the url resources
 def save(url,path):
     url = PAGENAME+url
@@ -51,7 +53,7 @@ def getImage(v_url):
                 break
 
     nextPage = re.findall("class=\"next\".*href=\"(\S*)\"",r.text)
-    time.sleep(3) #做人留一线 日后好相见
+#   time.sleep(3) #做人留一线 日后好相见
     if nextPage:
         print("Request for {0}".format(nextPage[0]))
         getImage(nextPage[0])
@@ -82,9 +84,9 @@ def searchModelByName(name,page=None):
     return series_list
 
 if __name__ == '__main__':
-    s_list = searchModelByName("Vicni")
+    s_list = searchModelByName("Anita")
     s_list.reverse()
     from pprint import PrettyPrinter
     p = PrettyPrinter(indent=4)
-    p.pprint(s_list)
-    # getImage("http://www.beautylegmm.com/Lucy/beautyleg-771.html?page=10")
+    for each in s_list:
+        getImage(each[0])

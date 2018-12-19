@@ -11,15 +11,18 @@ import requests
 from requests.exceptions import ConnectionError,ConnectTimeout
 
 import logging
-SAVEPATH = "/tmp/BL"
+ROOTPATH = "/tmp/BL"
 
 def mylogger():
     LOGGERNAME = os.path.join(".","BLMM_scrapper.log")
     logger = logging.getLogger()
     handler = logging.FileHandler(LOGGERNAME)
+    stream_handler = logging.StreamHandler()
     formatter = logging.Formatter(fmt="[%(asctime)s](%(levelname)s) - %(message)s ",datefmt='%m/%d/%Y %H:%M:%S') # set datefmt
     handler.setFormatter(formatter)
+    stream_handler.setFormatter(formatter)
     logger.addHandler(handler)
+    logger.addHandler(stream_handler)
     logger.setLevel(logging.INFO)
     return logger
 
@@ -56,21 +59,26 @@ def save_res(url,fn):
 
 def main():
 
-    if not os.path.exists(SAVEPATH):
-        os.makedirs(SAVEPATH)
 
     websites = []
-    web_pattern = "http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-00{:02}.jpg"
+    year = "2018"
+    seires = "1627"
+    total = 57
+#   web_pattern = "http://www.beautylegmm.com/photo/beautyleg/2015/1169/beautyleg-1169-00{:02}.jpg"
+    web_pattern = "http://www.beautylegmm.com/photo/beautyleg/{YEAR}/{SEIRES}/beautyleg-{SEIRES}-00{IDX:02}.jpg"
 
-    for i in range(1,65):
-        websites.append(web_pattern.format(i))
+    for i in range(1,total):
+        websites.append(web_pattern.format(YEAR=year,SEIRES=seires,IDX=i))
 
     uflist = []
     for url in websites:
-        fn = os.path.join(SAVEPATH,os.path.basename(urlparse(url).path))
+        fn = os.path.join(ROOTPATH,seires,os.path.basename(urlparse(url).path))
+        save_path = os.path.dirname(fn)
+        if not os.path.exists(save_path):
+            os.makedirs(save_path)
         uflist.append((url,fn))
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as pool:
         results = {pool.submit(save_res,url,fn):url for url,fn in uflist }
     
 if __name__ == '__main__':
