@@ -7,11 +7,15 @@ name = "pypi"
 ipython = "*"
 sanic = "*"
 ipdb = "*"
+uvloop = "*"
+django = "*"
+peewee = "*"
 
 [dev-packages]
 ipython = "*"
 ipdb = "*"
 sanic = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.6"

@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+坑爹的默认参数
+"""
 def f(a,c=[]):
     c.append(a)
     return c

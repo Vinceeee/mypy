@@ -8,7 +8,6 @@ app = Sanic()
 
 @app.route("/")
 async def test(request):
-    __import__('ipdb').set_trace()
     return json({'hello': 'world'})
 
 @app.route("/home")
@@ -16,6 +15,4 @@ async def test2(request):
     return text("HI,你好")
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0",port=1234)
-
-
+    app.run(host="0.0.0.0",port=12345)

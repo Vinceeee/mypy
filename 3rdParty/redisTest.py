@@ -74,10 +74,37 @@ def producer():
     with c.pipeline() as pipe:
         c.incr('product')
 
+def pub():
+
+    pool = redis.ConnectionPool(host=LOCALHOST)
+    c = redis.Redis(connection_pool=pool,db=0) 
+    
+    c.publish("aaa","bbb")
+
+def sub():
+    pool = redis.ConnectionPool(host=LOCALHOST)
+    c = redis.Redis(connection_pool=pool,db=0) 
+    p = c.pubsub()
+    p.subscribe("aaa")
+    
+    print("Starting redis subscribing daemon...")
+    try:
+        while True:
+            msg = p.get_message()
+            if msg:
+                print("receving messages :{}".format(msg))
+                print("receving data: {}".format(msg.get("data")))
+            time.sleep(0.1)
+    except Exception as e:
+        raise e
+
+
 def main():
 #   testSimpleCase()
 #   testPipeline()
-    testWatchTraction()
+#   testWatchTraction()
+#   pub()
+    sub()
 
 if __name__ == '__main__':
     main()
