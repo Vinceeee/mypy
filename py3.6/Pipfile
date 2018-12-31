@@ -10,12 +10,14 @@ ipdb = "*"
 uvloop = "*"
 django = "*"
 peewee = "*"
+aiohttp = "*"
 
 [dev-packages]
 ipython = "*"
 ipdb = "*"
 sanic = "*"
 pytest = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.6"
