@@ -1,5 +1,5 @@
 [[source]]
-url = "http://mirrors.aliyun.com/pypi/simple/"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
 verify_ssl = false
 name = "pypi"
 
@@ -10,14 +10,12 @@ ipdb = "*"
 uvloop = "*"
 django = "*"
 peewee = "*"
-aiohttp = "*"
 
 [dev-packages]
 ipython = "*"
 ipdb = "*"
 sanic = "*"
 pytest = "*"
-flake8 = "*"
 
 [requires]
 python_version = "3.6"
