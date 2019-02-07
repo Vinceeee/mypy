@@ -1,1 +1,3 @@
 # mypy
+
+## just for fun
