@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 import asyncio
-import time
 
 
 async def hi(msg="Async"):
@@ -10,9 +9,12 @@ async def hi(msg="Async"):
     print("Hello {msg}".format(msg=msg))
 
 
-async def sleep(seconds=10):
+async def sleep(seconds=10, *, msg):
     print("wait {}".format(seconds))
-    time.sleep(seconds)
+    print("msg: {}".format(msg))
+    await asyncio.sleep(seconds)
+    print("{} completed ... ".format(msg))
+    return msg + "completed"
 
 
 async def call_fib(n=10):
@@ -49,12 +51,25 @@ def normal_run():
     task_manager.run_until_complete(call_fib(50))
     task_manager.run_until_complete(call_fib(150))
     task_manager.run_forever()
-#   task_manager.stop()
+    #   task_manager.stop()
     if task_manager.is_running():
         print("task_manager还在跑")
         task_manager.stop()
     print("还在跑吗？ -- {}".format(task_manager.is_running()))
 
 
+def multi_run():
+    loop = asyncio.get_event_loop()
+    tasks = [sleep(i, msg="{}sleeping...".format(i)) for i in range(5)]
+    #   loop.run_until_complete(asyncio.gather(*tasks))
+#   loop.run_until_complete(asyncio.wait(tasks, timeout=5))
+    loop.run_until_complete(asyncio.wait(tasks, timeout=5))
+    for task in tasks:
+        __import__('ipdb').set_trace()
+        task.result()
+    loop.close()
+
+
 if __name__ == '__main__':
-    normal_run()
+    #   normal_run()
+    multi_run()
