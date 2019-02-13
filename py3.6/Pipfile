@@ -11,6 +11,7 @@ uvloop = "*"
 django = "*"
 peewee = "*"
 aiohttp = "*"
+yapf = "*"
 
 [dev-packages]
 ipython = "*"

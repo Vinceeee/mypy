@@ -3,16 +3,18 @@ import asyncio
 import time
 
 
-async def hi(msg="Async"):
+async def hi(future,msg="Async"):
     from random import randint
-    await sleep(randint(4, 5) / randint(10, 20)
+    await asyncio.sleep(randint(4, 5) / randint(10, 20)
                 )  # it will be stop until sleep function
     print("Hello {msg}".format(msg=msg))
+    future.set_result("Done")
 
 
-async def sleep(seconds=10):
+async def _sleep(seconds=10):
     print("wait {}".format(seconds))
-    time.sleep(seconds)
+    await asyncio.sleep(seconds)
+    print("wake up ... ")
 
 
 async def call_fib(n=10):
@@ -48,13 +50,24 @@ def normal_run():
     task_manager.run_until_complete(call_fib())
     task_manager.run_until_complete(call_fib(50))
     task_manager.run_until_complete(call_fib(150))
-    task_manager.run_forever()
-#   task_manager.stop()
+#   task_manager.run_forever()
+    task_manager.stop()
     if task_manager.is_running():
         print("task_manager还在跑")
         task_manager.stop()
     print("还在跑吗？ -- {}".format(task_manager.is_running()))
 
+def main():
+    loop = asyncio.get_event_loop()
+    f = asyncio.Future()
+    asyncio.ensure_future(hi(f,1))
+    loop.run_until_complete(f)
+    tasks = []
+    for i in range(10):
+        tasks.append(_sleep(i))
+    loop.run_until_complete(asyncio.wait(tasks))
+    loop.close()
 
 if __name__ == '__main__':
-    normal_run()
+#   normal_run()
+    main()

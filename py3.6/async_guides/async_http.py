@@ -13,7 +13,8 @@ async def openurl(url):
     print(u.read())
     st = randint(2, 3)
     await asyncio.sleep(st)
-    return u.status
+    print("task completed.")
+    return {url:u.status}
 
 
 def normal_run():
@@ -25,11 +26,11 @@ def normal_run():
         task1 = openurl("http://localhost:12345")
         task2 = openurl("http://localhost:12345/home")
         tasks = [asyncio.ensure_future(task1), asyncio.ensure_future(task2)]
-#       loop.run_until_complete(asyncio.wait(tasks))
-        loop.run_until_complete(task1)
+        loop.run_until_complete(asyncio.wait(tasks))
+#       loop.run_until_complete(task1)
 
-#       for task in tasks:
-#           print(task.result())
+        for task in tasks:
+            print(task.result())
 
 
 if __name__ == '__main__':
