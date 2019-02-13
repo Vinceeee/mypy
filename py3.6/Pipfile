@@ -11,7 +11,11 @@ uvloop = "*"
 django = "*"
 peewee = "*"
 aiohttp = "*"
+<<<<<<< HEAD
 yapf = "*"
+=======
+redis = "*"
+>>>>>>> f4b647eeaf96a2b07cd2c7f70bf5f1c3d99ef8a8
 
 [dev-packages]
 ipython = "*"
@@ -19,6 +23,7 @@ ipdb = "*"
 sanic = "*"
 pytest = "*"
 flake8 = "*"
+yapf = "*"
 
 [requires]
 python_version = "3.6"
