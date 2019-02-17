@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+
+[dev-packages]
+ipdb = "*"
+yapf = "*"
+pytest = "*"
+flake8 = "*"
+
+[packages]
+django = "*"
+markdown = "*"
+djangorestframework = "*"
+uwsgi = "*"
+celery = "*"
+django-oauth-toolkit = "*"
+django-cors-middleware = "*"
+
+[requires]
+python_version = "3.6"

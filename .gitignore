@@ -8,3 +8,9 @@ __pycache__/
 
 # pipenv
 *.lock
+*.log
+
+
+# django related
+# statics
+*.static/

@@ -10,19 +10,12 @@ async def hi(future,msg="Async"):
     future.set_result("Done")
 
 
-<<<<<<< HEAD
-async def _sleep(seconds=10):
-    print("wait {}".format(seconds))
-    await asyncio.sleep(seconds)
-    print("wake up ... ")
-=======
 async def sleep(seconds=10, *, msg):
     print("wait {}".format(seconds))
     print("msg: {}".format(msg))
     await asyncio.sleep(seconds)
     print("{} completed ... ".format(msg))
     return msg + "completed"
->>>>>>> f4b647eeaf96a2b07cd2c7f70bf5f1c3d99ef8a8
 
 
 async def call_fib(n=10):
@@ -58,13 +51,9 @@ def normal_run():
     task_manager.run_until_complete(call_fib())
     task_manager.run_until_complete(call_fib(50))
     task_manager.run_until_complete(call_fib(150))
-<<<<<<< HEAD
 #   task_manager.run_forever()
-    task_manager.stop()
-=======
     task_manager.run_forever()
     #   task_manager.stop()
->>>>>>> f4b647eeaf96a2b07cd2c7f70bf5f1c3d99ef8a8
     if task_manager.is_running():
         print("task_manager还在跑")
         task_manager.stop()
@@ -94,10 +83,6 @@ def multi_run():
 
 
 if __name__ == '__main__':
-<<<<<<< HEAD
-#   normal_run()
-    main()
-=======
+    #   main()
     #   normal_run()
     multi_run()
->>>>>>> f4b647eeaf96a2b07cd2c7f70bf5f1c3d99ef8a8

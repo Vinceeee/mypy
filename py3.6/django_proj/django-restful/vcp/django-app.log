@@ -1,0 +1,39 @@
+WARNING 2019-02-15 23:56:07,784 log 18776 11720 Not Found: /
+WARNING 2019-02-15 23:56:07,784 basehttp 18776 11720 "GET / HTTP/1.1" 404 2241
+WARNING 2019-02-15 23:56:07,907 log 18776 11720 Not Found: /favicon.ico
+WARNING 2019-02-15 23:56:07,908 basehttp 18776 11720 "GET /favicon.ico HTTP/1.1" 404 2292
+INFO 2019-02-15 23:56:16,185 basehttp 18776 11720 "GET /lottery/prices HTTP/1.1" 200 10034
+INFO 2019-02-15 23:56:16,208 basehttp 18776 20464 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2019-02-15 23:56:16,209 basehttp 18776 10856 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2019-02-15 23:56:16,210 basehttp 18776 11720 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2019-02-15 23:56:16,218 basehttp 18776 20464 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+INFO 2019-02-15 23:56:16,219 basehttp 18776 11720 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2019-02-15 23:56:16,222 basehttp 18776 10856 "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+INFO 2019-02-15 23:56:16,223 basehttp 18776 20464 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1735
+INFO 2019-02-15 23:56:16,226 basehttp 18776 11720 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+INFO 2019-02-15 23:56:16,226 basehttp 18776 10856 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2019-02-15 23:56:16,236 basehttp 18776 20464 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2019-02-15 23:56:16,240 basehttp 18776 20464 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2019-02-15 23:56:17,845 basehttp 18776 20464 "GET /api-auth/login/?next=/lottery/prices HTTP/1.1" 200 2715
+INFO 2019-02-15 23:56:20,969 basehttp 18776 20464 "POST /api-auth/login/ HTTP/1.1" 302 0
+INFO 2019-02-15 23:56:21,009 basehttp 18776 20464 "GET /lottery/prices HTTP/1.1" 200 14284
+INFO 2019-02-15 23:57:02,357 basehttp 18776 20464 "POST /lottery/prices HTTP/1.1" 201 14181
+INFO 2019-02-15 23:57:02,374 basehttp 18776 20464 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:02,377 basehttp 18776 10856 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:02,378 basehttp 18776 11720 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:02,380 basehttp 18776 20464 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:02,382 basehttp 18776 11720 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:02,384 basehttp 18776 10856 "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:02,387 basehttp 18776 11720 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:02,387 basehttp 18776 20464 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:02,388 basehttp 18776 10856 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:02,391 basehttp 18776 11720 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:02,420 basehttp 18776 11720 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2019-02-15 23:57:07,969 basehttp 18776 11720 "GET /lottery/prices HTTP/1.1" 200 14630
+WARNING 2019-02-15 23:57:11,183 log 18776 11720 Not Found: /media/media/vscode-1.gif
+WARNING 2019-02-15 23:57:11,183 basehttp 18776 11720 "GET /media/media/vscode-1.gif HTTP/1.1" 404 2331
+WARNING 2019-02-15 23:57:17,166 log 18776 11720 Not Found: /media/pic_default
+WARNING 2019-02-15 23:57:17,166 basehttp 18776 11720 "GET /media/pic_default HTTP/1.1" 404 2310
+WARNING 2019-02-15 23:58:43,315 log 18600 1984 Not Found: /media/pic_default
+WARNING 2019-02-15 23:58:43,315 basehttp 18600 1984 "GET /media/pic_default HTTP/1.1" 404 1823
+INFO 2019-02-15 23:58:53,032 basehttp 18600 1984 "GET /media/media/vscode-1.gif HTTP/1.1" 200 101513
