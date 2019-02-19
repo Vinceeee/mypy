@@ -12,5 +12,7 @@ __pycache__/
 
 
 # django related
+*.sqlite3
+
 # statics
 *.static/

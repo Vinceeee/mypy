@@ -4,6 +4,8 @@ from django.views.decorators.csrf import csrf_exempt
 from oauth.models import User
 from oauth.serializers import UserSerializer
 
+from oauth.forms import UploadFileForm
+
 
 # def index(req: HttpRequest) -> HttpResponse:
 def index(req) -> HttpResponse:
@@ -44,3 +46,13 @@ def login(req):
     if User.objects.get(user_name=user_name, user_passwd=user_passwd):
         return JsonResponse({"token": user_passwd}, status=200)
     return JsonResponse({}, status=404)
+
+@csrf_exempt
+def upload_file(request):
+    if request.method == 'POST':
+        form = UploadFileForm(request.POST, request.FILES)
+        if form.is_valid():
+            form.save()
+            return JsonResponse({}, status=201)
+    
+    return JsonResponse({}, status=405)
