@@ -17,6 +17,7 @@ uwsgi = "*"
 celery = "*"
 django-oauth-toolkit = "*"
 django-cors-middleware = "*"
+ipdb = "*"
 
 [requires]
 python_version = "3.6"

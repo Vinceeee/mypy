@@ -16,3 +16,4 @@ __pycache__/
 
 # statics
 *.static/
+*.media/
