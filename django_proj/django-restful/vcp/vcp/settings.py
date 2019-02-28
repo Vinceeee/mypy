@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-#   'oauth.apps.OauthConfig',
+    'oauth.apps.OauthConfig',
     'lottery.apps.LotteryConfig',
     # dependecy for oauth-toolkit
     'oauth2_provider',

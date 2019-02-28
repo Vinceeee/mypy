@@ -7,16 +7,14 @@ verify_ssl = true
 ipdb = "*"
 yapf = "*"
 pytest = "*"
-flake8 = "*"
 
 [packages]
-django = "*"
-markdown = "*"
 djangorestframework = "*"
 uwsgi = "*"
 celery = "*"
 django-oauth-toolkit = "*"
 django-cors-middleware = "*"
+django = "*"
 
 [requires]
 python_version = "3.6"

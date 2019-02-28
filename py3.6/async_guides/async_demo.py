@@ -77,7 +77,6 @@ def multi_run():
 #   loop.run_until_complete(asyncio.wait(tasks, timeout=5))
     loop.run_until_complete(asyncio.wait(tasks, timeout=5))
     for task in tasks:
-        __import__('ipdb').set_trace()
         task.result()
     loop.close()
 
