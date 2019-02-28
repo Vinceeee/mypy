@@ -50,6 +50,7 @@ MIDDLEWARE = [
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
@@ -161,13 +162,14 @@ LOGGING = {
         'file': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': '/tmp/app.log',
+            'filename': 'app.log',
             'formatter': 'verbose'
         }
     },
     'loggers': {
         'django': {
-            'handlers': ['file'],
+#           'handlers': ['file','console'],
+            'handlers': ['console'],
             'propagate': True,
         }
     }
@@ -175,3 +177,8 @@ LOGGING = {
 
 MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 MEDIA_URL = "/media/"
+
+FORM_ROOT = os.path.join(BASE_DIR, "media")
+
+# ALLOW CORS 
+CORS_ORIGIN_ALLOW_ALL = True

@@ -15,6 +15,7 @@ celery = "*"
 django-oauth-toolkit = "*"
 django-cors-middleware = "*"
 django = "*"
+ipdb = "*"
 
 [requires]
 python_version = "3.6"
