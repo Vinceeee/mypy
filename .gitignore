@@ -8,3 +8,15 @@ __pycache__/
 
 # pipenv
 *.lock
+*.log
+
+
+# django related
+*.sqlite3
+
+# statics
+*.static/
+
+.vscode/
+*.media/*
+*.gif

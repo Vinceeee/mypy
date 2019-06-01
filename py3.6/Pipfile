@@ -11,6 +11,7 @@ uvloop = "*"
 django = "*"
 peewee = "*"
 aiohttp = "*"
+yapf = "*"
 redis = "*"
 
 [dev-packages]
@@ -20,6 +21,7 @@ sanic = "*"
 pytest = "*"
 flake8 = "*"
 yapf = "*"
+requests = "*"
 
 [requires]
 python_version = "3.6"
