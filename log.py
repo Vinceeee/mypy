@@ -1,9 +1,16 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 import logging
 
-if __name__ == '__main__':
+def add_log_handle():
+    """todo """
+    pass
+
+def add_nothing():
+    """add some comment."""
+    pass
+
+def main():
     log_level = logging.INFO
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
@@ -24,5 +31,8 @@ if __name__ == '__main__':
     logger.info("test test")
     logger.debug("no debug test test")
     logger.error("test test")
-    logger.warn("test test")
+    logger.warn("test test 2")
     logger.info("asdfd{}{}{}asdf".format("aaa","bbb","%aa"))
+
+if __name__ == "__main__":
+    main()

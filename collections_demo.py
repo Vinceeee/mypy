@@ -25,5 +25,10 @@ def main():
     outgoing = decodeJson(incoming)
     print(outgoing)
 
+def main2():
+    incoming = encodeJson()
+    outgoing = decodeJson(incoming)
+    print(outgoing)
+
 if __name__ == '__main__':
     main()
