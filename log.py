@@ -7,6 +7,7 @@ def add_log_handle():
     pass
 
 def add_nothing():
+    """add some comment."""
     pass
 
 def main():
