@@ -2,7 +2,7 @@
 
 import logging
 
-if __name__ == '__main__':
+def main():
     log_level = logging.INFO
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
@@ -25,3 +25,6 @@ if __name__ == '__main__':
     logger.error("test test")
     logger.warn("test test")
     logger.info("asdfd{}{}{}asdf".format("aaa","bbb","%aa"))
+
+if __name__ == "__main__":
+    main()
