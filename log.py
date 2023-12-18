@@ -6,6 +6,9 @@ def add_log_handle():
     """todo """
     pass
 
+def add_nothing():
+    pass
+
 def main():
     log_level = logging.INFO
     logger = logging.getLogger(__name__)
