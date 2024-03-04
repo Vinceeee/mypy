@@ -3,10 +3,6 @@ from ..utils import sorted_by_key
 from ..models import Role
 
 
-def test_demo():
-    assert 1 == 1
-
-
 @pytest.mark.parametrize(
     "arr, key, expected_first",
     [
@@ -25,6 +21,6 @@ def test_role():
 
 
 def test_add(client):
-    resp = client.get("/api/cal/add", data=dict(a=1,b=2))
+    resp = client.get("/api/cal/add", data=dict(a=1, b=2))
     assert resp.status_code == 200
     # assert resp.json()["result"] == 3
