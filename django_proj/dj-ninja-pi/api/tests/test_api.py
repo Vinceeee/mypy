@@ -23,4 +23,9 @@ def test_role():
 def test_add(client):
     resp = client.get("/api/cal/add", data=dict(a=1, b=2))
     assert resp.status_code == 200
-    # assert resp.json()["result"] == 3
+
+
+def test_incr(client):
+    resp = client.get("/api/cal/incr", data=dict(key="aaa"))
+    assert resp.status_code == 200
+    assert resp.json()["result"] == 1
