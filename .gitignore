@@ -6,11 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# pipenv
-*.lock
-*.log
-
-
 # django related
 *.sqlite3
 
@@ -21,3 +16,5 @@ __pycache__/
 *.media/*
 *.gif
 .coverage
+
+log/
