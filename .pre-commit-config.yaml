@@ -30,4 +30,5 @@ repos:
             types-retry,
             pydantic,
             types-PyMySQL,
+            types-requests,
           ] # Example: add additional stub packages
