@@ -11,3 +11,10 @@
 基本上都是`uv sync`和`uv add`就完事了
 
 使用方式参考文档: [uv doc](https://docs.astral.sh/uv/)
+
+### 初始化项目
+
+```bash
+uv sync # 同步依赖,会在当前目录创建`.venv`虚拟环境目录
+
+```

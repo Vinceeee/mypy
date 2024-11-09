@@ -31,4 +31,5 @@ repos:
             pydantic,
             types-PyMySQL,
             types-requests,
+            types-redis,
           ] # Example: add additional stub packages
