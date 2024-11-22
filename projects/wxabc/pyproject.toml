@@ -22,10 +22,11 @@ dependencies = [
   "redis>=5.2.0",
   "requests>=2.32.3",
   "uvicorn>=0.32.0",
+  "pydantic-settings>=2.6.1",
 ]
 
 [tool.uv]
-index-url = "https://mirrors.tencent.com/pypi/simple/"
+index-url = "https://mirrors.aliyun.com/pypi/simple/"
 dev-dependencies = [
   "ipdb>=0.13.13",
   "pytest-asyncio>=0.24.0",
