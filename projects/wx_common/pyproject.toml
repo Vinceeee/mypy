@@ -1,0 +1,38 @@
+[project]
+name = "wx-common"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic-settings>=2.6.1",
+    "cryptography>=43.0.3",
+    "loguru>=0.7",
+    "dramatiq>=1.17.1",
+    "langchain-openai>=0.2.11",
+]
+
+[project.optional-dependencies]
+llm = [
+    "langchain~=0.3",
+    "langgraph>=0.2.56",
+]
+
+[tool.uv]
+index-url = "https://mirrors.aliyun.com/pypi/simple/"
+dev-dependencies = [
+  "ipdb>=0.13.13",
+  "pytest-asyncio>=0.24.0",
+  "pytest>=8.3.2",
+  "ruff>=0.6.4",
+]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+
+[tool.pytest.ini_options]
+addopts = [
+    "-v",
+]
+
