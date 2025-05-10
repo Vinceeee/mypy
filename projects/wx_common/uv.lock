@@ -1,4 +1,5 @@
 version = 1
+revision = 2
 requires-python = ">=3.10"
 resolution-markers = [
     "python_full_version < '3.11'",
@@ -1389,6 +1390,19 @@ wheels = [
 ]
 
 [[package]]
+name = "pytest-dotenv"
+version = "0.5.2"
+source = { registry = "https://mirrors.aliyun.com/pypi/simple/" }
+dependencies = [
+    { name = "pytest" },
+    { name = "python-dotenv" },
+]
+sdist = { url = "https://mirrors.aliyun.com/pypi/packages/cd/b0/cafee9c627c1bae228eb07c9977f679b3a7cb111b488307ab9594ba9e4da/pytest-dotenv-0.5.2.tar.gz", hash = "sha256:2dc6c3ac6d8764c71c6d2804e902d0ff810fa19692e95fe138aefc9b1aa73732" }
+wheels = [
+    { url = "https://mirrors.aliyun.com/pypi/packages/d0/da/9da67c67b3d0963160e3d2cbc7c38b6fae342670cc8e6d5936644b2cf944/pytest_dotenv-0.5.2-py3-none-any.whl", hash = "sha256:40a2cece120a213898afaa5407673f6bd924b1fa7eafce6bda0e8abffe2f710f" },
+]
+
+[[package]]
 name = "python-dotenv"
 version = "1.0.1"
 source = { registry = "https://mirrors.aliyun.com/pypi/simple/" }
@@ -1698,7 +1712,7 @@ name = "tqdm"
 version = "4.67.1"
 source = { registry = "https://mirrors.aliyun.com/pypi/simple/" }
 dependencies = [
-    { name = "colorama", marker = "platform_system == 'Windows'" },
+    { name = "colorama", marker = "sys_platform == 'win32'" },
 ]
 sdist = { url = "https://mirrors.aliyun.com/pypi/packages/a8/4b/29b4ef32e036bb34e4ab51796dd745cdba7ed47ad142a9f4a1eb8e0c744d/tqdm-4.67.1.tar.gz", hash = "sha256:f8aef9c52c08c13a65f30ea34f4e5aac3fd1a34959879d7e59e63027286627f2" }
 wheels = [
@@ -1774,6 +1788,7 @@ dev = [
     { name = "maturin" },
     { name = "pytest" },
     { name = "pytest-asyncio" },
+    { name = "pytest-dotenv" },
     { name = "ruff" },
 ]
 
@@ -1787,6 +1802,7 @@ requires-dist = [
     { name = "loguru", specifier = ">=0.7" },
     { name = "pydantic-settings", specifier = ">=2.6.1" },
 ]
+provides-extras = ["llm"]
 
 [package.metadata.requires-dev]
 dev = [
@@ -1794,6 +1810,7 @@ dev = [
     { name = "maturin", specifier = ">=1.7.8" },
     { name = "pytest", specifier = ">=8.3.2" },
     { name = "pytest-asyncio", specifier = ">=0.24.0" },
+    { name = "pytest-dotenv", specifier = ">=0.5.2" },
     { name = "ruff", specifier = ">=0.6.4" },
 ]
 

@@ -3,9 +3,10 @@
 """
 
 import os
+
+from langchain.agents import AgentExecutor, create_tool_calling_agent
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.tools import tool
-from langchain.agents import create_tool_calling_agent, AgentExecutor
 from langchain_openai.chat_models import ChatOpenAI
 from loguru import logger
 from pydantic import SecretStr
@@ -38,7 +39,7 @@ def test_chat_with_tool():
     )
     # return tool call message
     agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
-    logger.info(agent_executor.invoke(dict(input="what's the result of 10 times 4?")))
+    logger.info(agent_executor.invoke({"input": "what's the result of 10 times 4?"}))
 
 
 test_chat_with_tool()

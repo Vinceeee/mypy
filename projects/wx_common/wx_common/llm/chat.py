@@ -4,9 +4,10 @@
 """
 
 import os
-from loguru import logger
+
 from langchain_openai.chat_models import ChatOpenAI
 from langchain_openai.embeddings import OpenAIEmbeddings
+from loguru import logger
 from pydantic import SecretStr
 
 

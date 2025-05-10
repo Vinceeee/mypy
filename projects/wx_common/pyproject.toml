@@ -26,14 +26,44 @@ dev-dependencies = [
   "pytest>=8.3.2",
   "ruff>=0.6.4",
   "maturin>=1.7.8",
+  "pytest-dotenv>=0.5.2",
 ]
-
-[tool.pyright]
-venvPath = "."
-venv = ".venv"
 
 [tool.pytest.ini_options]
 addopts = [
     "-v",
+    "-s"
 ]
+env_files =[
+    ".env"
+]
+env_override_existing_values = 1
 
+
+[tool.ruff]
+line-length = 119
+force-exclude = true
+indent-width = 4
+
+
+[tool.ruff.lint]
+select = [
+    "E",
+    "F",
+    "I",
+    "PIE",
+    "PERF"
+]
+ignore = ["PERF401", "E501", "E402"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["wx_common"]
+# 总是显式制定 import section 的顺序
+section-order = [
+  "future",
+  "standard-library",
+  "third-party",
+  "first-party",
+  "local-folder",
+]
+relative-imports-order = "closest-to-furthest"
