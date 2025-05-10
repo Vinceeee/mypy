@@ -1,0 +1,35 @@
+default_stages: [commit]
+
+repos:
+  #【必须】通过匹配conflict string，检查是否存在没有解决冲突的代码
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.0.1
+    hooks:
+      - id: check-merge-conflict
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    # Ruff version.
+    rev: v0.4.7
+    hooks:
+      # Run the linter.
+      - id: ruff
+        args: [--fix]
+      # Run the formatter.
+      - id: ruff-format
+        args: ["--line-length", "119"]
+
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: "v1.10.0" # Use the desired MyPy version
+    hooks:
+      - id: mypy
+        # files: (aidev/core|aidev_extend/core)
+        # args: [--config-file=./pyproject.toml]
+        additional_dependencies: [
+            types-cachetools,
+            types-pytz,
+            types-retry,
+            pydantic,
+            types-PyMySQL,
+            types-requests,
+            types-redis,
+          ] # Example: add additional stub packages
