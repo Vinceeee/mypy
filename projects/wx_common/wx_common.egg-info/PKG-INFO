@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: wx-common
+Version: 0.1.0
+Summary: common packages
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pydantic-settings>=2.6.1
+Requires-Dist: cryptography>=43.0.3
+Requires-Dist: loguru>=0.7
+Provides-Extra: llm
+Requires-Dist: langchain~=0.3; extra == "llm"
+Requires-Dist: langgraph>=0.2.56; extra == "llm"
+Requires-Dist: langchain-openai>=0.2.11; extra == "llm"
+
+# WX common
+
+杂7杂8的,playground用

@@ -5,7 +5,6 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
   "cryptography>=43.0.3",
-  "loguru>=0.7.2",
   "pydantic>=2",
   "requests>=2.32.3",
   "aioredis>=2.0.1",
@@ -23,6 +22,7 @@ dependencies = [
   "requests>=2.32.3",
   "uvicorn>=0.32.0",
   "pydantic-settings>=2.6.1",
+  "wx_common>=0.1.0"
 ]
 
 [tool.uv]
@@ -33,6 +33,7 @@ dev-dependencies = [
   "pytest>=8.3.2",
   "ruff>=0.6.4",
 ]
+sources.wx_common = { path= "../wx_common", editable = true}
 
 [tool.pytest.ini_options]
 minversion = "8.0"
@@ -42,5 +43,4 @@ testpaths = ["tests"]
 [project.optional-dependencies]
 llm = ["langchain<3", "langchain-openai<0.3"]
 dask = ["dask<=2024", "jpype1>=1.5.0"]
-data = ["pyspark==3.5.3"]
 aio = ["aiohttp<4", "aioresponses"]

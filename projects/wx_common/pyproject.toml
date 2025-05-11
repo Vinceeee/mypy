@@ -1,22 +1,17 @@
 [project]
 name = "wx-common"
 version = "0.1.0"
-description = "Add your description here"
+description = "common packages"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "pydantic-settings>=2.6.1",
-    "cryptography>=43.0.3",
-    "loguru>=0.7",
-    "dramatiq>=1.17.1",
-    "langchain-openai>=0.2.11",
+  "pydantic-settings>=2.6.1",
+  "cryptography>=43.0.3",
+  "loguru>=0.7",
 ]
 
 [project.optional-dependencies]
-llm = [
-    "langchain~=0.3",
-    "langgraph>=0.2.56",
-]
+llm = ["langchain~=0.3", "langgraph>=0.2.56", "langchain-openai>=0.2.11"]
 
 [tool.uv]
 index-url = "https://mirrors.aliyun.com/pypi/simple/"
@@ -30,13 +25,8 @@ dev-dependencies = [
 ]
 
 [tool.pytest.ini_options]
-addopts = [
-    "-v",
-    "-s"
-]
-env_files =[
-    ".env"
-]
+addopts = ["-v", "-s"]
+env_files = [".env"]
 env_override_existing_values = 1
 
 
@@ -47,13 +37,7 @@ indent-width = 4
 
 
 [tool.ruff.lint]
-select = [
-    "E",
-    "F",
-    "I",
-    "PIE",
-    "PERF"
-]
+select = ["E", "F", "I", "PIE", "PERF"]
 ignore = ["PERF401", "E501", "E402"]
 
 [tool.ruff.lint.isort]

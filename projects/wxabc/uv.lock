@@ -1,4 +1,5 @@
 version = 1
+revision = 2
 requires-python = ">=3.10"
 resolution-markers = [
     "python_full_version < '3.11'",
@@ -338,7 +339,7 @@ name = "click"
 version = "8.1.7"
 source = { registry = "https://mirrors.aliyun.com/pypi/simple/" }
 dependencies = [
-    { name = "colorama", marker = "platform_system == 'Windows'" },
+    { name = "colorama", marker = "sys_platform == 'win32'" },
 ]
 sdist = { url = "https://mirrors.aliyun.com/pypi/packages/96/d3/f04c7bfcf5c1862a2a5b845c6b2b360488cf47af55dfa79c98f6a6bf98b5/click-8.1.7.tar.gz", hash = "sha256:ca9853ad459e787e2192211578cc907e7594e294c7ccc834310722b41b9ca6de" }
 wheels = [
@@ -1545,15 +1546,6 @@ wheels = [
 ]
 
 [[package]]
-name = "py4j"
-version = "0.10.9.7"
-source = { registry = "https://mirrors.aliyun.com/pypi/simple/" }
-sdist = { url = "https://mirrors.aliyun.com/pypi/packages/1e/f2/b34255180c72c36ff7097f7c2cdca02abcbd89f5eebf7c7c41262a9a0637/py4j-0.10.9.7.tar.gz", hash = "sha256:0b6e5315bb3ada5cf62ac651d107bb2ebc02def3dee9d9548e3baac644ea8dbb" }
-wheels = [
-    { url = "https://mirrors.aliyun.com/pypi/packages/10/30/a58b32568f1623aaad7db22aa9eafc4c6c194b429ff35bdc55ca2726da47/py4j-0.10.9.7-py2.py3-none-any.whl", hash = "sha256:85defdfd2b2376eb3abf5ca6474b51ab7e0de341c75a02f46dc9b5976f5a5c1b" },
-]
-
-[[package]]
 name = "pycparser"
 version = "2.22"
 source = { registry = "https://mirrors.aliyun.com/pypi/simple/" }
@@ -1664,15 +1656,6 @@ sdist = { url = "https://mirrors.aliyun.com/pypi/packages/8e/62/8336eff65bcbc8e4
 wheels = [
     { url = "https://mirrors.aliyun.com/pypi/packages/f7/3f/01c8b82017c199075f8f788d0d906b9ffbbc5a47dc9918a945e13d5a2bda/pygments-2.18.0-py3-none-any.whl", hash = "sha256:b8e6aca0523f3ab76fee51799c488e38782ac06eafcf95e7ba832985c8e7b13a" },
 ]
-
-[[package]]
-name = "pyspark"
-version = "3.5.3"
-source = { registry = "https://mirrors.aliyun.com/pypi/simple/" }
-dependencies = [
-    { name = "py4j" },
-]
-sdist = { url = "https://mirrors.aliyun.com/pypi/packages/9a/90/cb80c8cf194958ab9a3242851c62fa5aef1a0b42f2d9642f1e2eca098005/pyspark-3.5.3.tar.gz", hash = "sha256:68b7cc0c0c570a7d8644f49f40d2da8709b01d30c9126cc8cf93b4f84f3d9747" }
 
 [[package]]
 name = "pytest"
@@ -2046,7 +2029,7 @@ name = "tqdm"
 version = "4.66.6"
 source = { registry = "https://mirrors.aliyun.com/pypi/simple/" }
 dependencies = [
-    { name = "colorama", marker = "platform_system == 'Windows'" },
+    { name = "colorama", marker = "sys_platform == 'win32'" },
 ]
 sdist = { url = "https://mirrors.aliyun.com/pypi/packages/e9/34/bef135b27fe1864993a5284ad001157ee9b5538e859ac90f5b0e8cc8c9ec/tqdm-4.66.6.tar.gz", hash = "sha256:4bdd694238bef1485ce839d67967ab50af8f9272aab687c0d7702a01da0be090" }
 wheels = [
@@ -2167,6 +2150,37 @@ wheels = [
 ]
 
 [[package]]
+name = "wx-common"
+version = "0.1.0"
+source = { editable = "../wx_common" }
+dependencies = [
+    { name = "cryptography" },
+    { name = "loguru" },
+    { name = "pydantic-settings" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "cryptography", specifier = ">=43.0.3" },
+    { name = "langchain", marker = "extra == 'llm'", specifier = "~=0.3" },
+    { name = "langchain-openai", marker = "extra == 'llm'", specifier = ">=0.2.11" },
+    { name = "langgraph", marker = "extra == 'llm'", specifier = ">=0.2.56" },
+    { name = "loguru", specifier = ">=0.7" },
+    { name = "pydantic-settings", specifier = ">=2.6.1" },
+]
+provides-extras = ["llm"]
+
+[package.metadata.requires-dev]
+dev = [
+    { name = "ipdb", specifier = ">=0.13.13" },
+    { name = "maturin", specifier = ">=1.7.8" },
+    { name = "pytest", specifier = ">=8.3.2" },
+    { name = "pytest-asyncio", specifier = ">=0.24.0" },
+    { name = "pytest-dotenv", specifier = ">=0.5.2" },
+    { name = "ruff", specifier = ">=0.6.4" },
+]
+
+[[package]]
 name = "wxabc"
 version = "0.1.0"
 source = { virtual = "." }
@@ -2187,6 +2201,7 @@ dependencies = [
     { name = "redis" },
     { name = "requests" },
     { name = "uvicorn" },
+    { name = "wx-common" },
 ]
 
 [package.optional-dependencies]
@@ -2197,9 +2212,6 @@ aio = [
 dask = [
     { name = "dask" },
     { name = "jpype1" },
-]
-data = [
-    { name = "pyspark" },
 ]
 llm = [
     { name = "langchain" },
@@ -2235,11 +2247,12 @@ requires-dist = [
     { name = "opentelemetry-sdk", specifier = ">=1.28.1" },
     { name = "pydantic", specifier = ">=2" },
     { name = "pydantic-settings", specifier = ">=2.6.1" },
-    { name = "pyspark", marker = "extra == 'data'", specifier = "==3.5.3" },
     { name = "redis", specifier = ">=5.2.0" },
     { name = "requests", specifier = ">=2.32.3" },
     { name = "uvicorn", specifier = ">=0.32.0" },
+    { name = "wx-common", editable = "../wx_common" },
 ]
+provides-extras = ["llm", "dask", "aio"]
 
 [package.metadata.requires-dev]
 dev = [
