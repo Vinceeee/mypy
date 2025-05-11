@@ -1,0 +1,8 @@
+pydantic-settings>=2.6.1
+cryptography>=43.0.3
+loguru>=0.7
+
+[llm]
+langchain~=0.3
+langgraph>=0.2.56
+langchain-openai>=0.2.11

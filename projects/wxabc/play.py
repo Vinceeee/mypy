@@ -4,7 +4,7 @@ from typing import Literal
 from typing_extensions import override
 
 
-from loguru import logger
+from wxabc.logger import logger
 import requests
 
 
@@ -70,3 +70,6 @@ class GithubContentFetcher(ContentFetcher):
             logger.info(tree_objs)
         else:
             logger.info(result)
+
+
+logger.info("test")
