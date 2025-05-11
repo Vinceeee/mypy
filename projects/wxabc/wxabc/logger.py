@@ -19,11 +19,12 @@ class LoggerConfig:
     ):
         self.sink = sink
         self.format = format or (
-            "{time:YYYY-MM-DD HH:mm:ss.SSS} | "
-            "<level>{level: <8}</level> | "
-            "<cyan>{extra[traceid]}</cyan> | "
-            "<cyan>{file}:{line}</cyan> | "
-            "<level>{message}</level>"
+            '{{"time": "{time:YYYY-MM-DD HH:mm:ss.SSS}", '
+            '"level": "{level}", '
+            '"traceid": "{extra[traceid]}", '
+            '"file": "{file}", '
+            '"line": {line}, '
+            '"message": "{message}"}}'
         )
         self.level = level
         self.enqueue = enqueue
@@ -61,8 +62,21 @@ def configure_logger(handlers: List[LoggerConfig]) -> None:
         )
 
 
-# 默认配置 - 控制台输出
-default_console_handler = LoggerConfig()
+# 默认配置 - INFO及以上级别日志输出到app.log
+default_info_handler = LoggerConfig(
+    sink="logs/app.log",
+    level="INFO",  # 记录INFO及以上级别
+    rotation="10 MB",  # 日志文件达到10MB时自动分割
+    retention="30 days",  # 保留30天的日志
+)
 
-# 初始化默认logger
-configure_logger([default_console_handler])
+# 错误日志配置 - ERROR及以上级别日志输出到app.err
+error_handler = LoggerConfig(
+    sink="logs/app.err",
+    level="ERROR",  # 只记录ERROR及以上级别
+    rotation="5 MB",  # 错误日志文件达到5MB时自动分割
+    retention="60 days",  # 保留60天的错误日志
+)
+
+# 初始化logger，同时配置info和error处理器
+configure_logger([default_info_handler, error_handler])

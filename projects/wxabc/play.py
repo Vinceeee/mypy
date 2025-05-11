@@ -72,4 +72,5 @@ class GithubContentFetcher(ContentFetcher):
             logger.info(result)
 
 
-logger.info("test")
+logger.info("test info")
+logger.error("test error")
